@@ -1,0 +1,590 @@
+Year,"Fuel Type","Number of Vehicles","Weight Class","Vehicle Type","Engine Configuration"
+2017,"Compressed Natural Gas (CNG)",88,"Heavy Duty","Buses (School Buses)",Dedicated
+2017,"Compressed Natural Gas (CNG)",102,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2017,"Compressed Natural Gas (CNG)",787,"Heavy Duty","Other Trucks",Dedicated
+2017,"Compressed Natural Gas (CNG)",132,"Light Duty","Pickup Trucks (Pickups < 8,500 lbs)",Nondedicated
+2017,"Compressed Natural Gas (CNG)",10,"Light Duty","Other Trucks (SUVs < 8,500 lbs)",Nondedicated
+2017,"Compressed Natural Gas (CNG)",34,"Light Duty","Pickup Trucks (Pickups < 8,500 lbs)",Dedicated
+2017,"Compressed Natural Gas (CNG)",8,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10,000 lbs)",Dedicated
+2017,"Compressed Natural Gas (CNG)",9,"Medium Duty","Pickup Trucks",Dedicated
+2017,"Compressed Natural Gas (CNG)",30,"Medium Duty","Other Trucks",Dedicated
+2017,"Compressed Natural Gas (CNG)",278,"Heavy Duty","Buses (School Buses)",Dedicated
+2017,"Compressed Natural Gas (CNG)",793,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2017,"Compressed Natural Gas (CNG)",2196,"Heavy Duty","Other Trucks",Dedicated
+2017,"Compressed Natural Gas (CNG)",31,"Medium Duty","Pickup Trucks",Nondedicated
+2017,"Compressed Natural Gas (CNG)",55,"Medium Duty","Pickup Trucks",Nondedicated
+2016,"Compressed Natural Gas (CNG)",403,"Heavy Duty","Buses (School Buses)",Dedicated
+2016,"Compressed Natural Gas (CNG)",27,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10,000 lbs)",Dedicated
+2016,"Compressed Natural Gas (CNG)",1799,"Heavy Duty","Other Trucks",Dedicated
+2016,"Compressed Natural Gas (CNG)",113,"Medium Duty","Pickup Trucks",Nondedicated
+2016,"Compressed Natural Gas (CNG)",8,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10,000 lbs)",Dedicated
+2016,"Compressed Natural Gas (CNG)",294,"Heavy Duty","Buses (School Buses)",Dedicated
+2016,"Compressed Natural Gas (CNG)",76,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2016,"Compressed Natural Gas (CNG)",1318,"Heavy Duty","Other Trucks",Dedicated
+2016,"Compressed Natural Gas (CNG)",52,"Light Duty","Pickup Trucks (Pickups < 8,500 lbs)",Nondedicated
+2016,"Compressed Natural Gas (CNG)",11,"Light Duty","Other Trucks (SUVs < 8,500 lbs)",Nondedicated
+2016,"Compressed Natural Gas (CNG)",30,"Light Duty","Pickup Trucks (Pickups < 8,500 lbs)",Dedicated
+2016,"Compressed Natural Gas (CNG)",51,"Medium Duty","Pickup Trucks",Nondedicated
+2016,"Compressed Natural Gas (CNG)",101,"Medium Duty","Pickup Trucks",Dedicated
+2016,"Compressed Natural Gas (CNG)",31,"Medium Duty","Other Trucks",Dedicated
+2016,"Compressed Natural Gas (CNG)",1416,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2015,"Compressed Natural Gas (CNG)",118,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2015,"Compressed Natural Gas (CNG)",2106,"Heavy Duty","Other Trucks",Dedicated
+2015,"Compressed Natural Gas (CNG)",10,"Light Duty","Other Trucks (SUVs < 8,500 lbs)",Nondedicated
+2015,"Compressed Natural Gas (CNG)",234,"Medium Duty","Pickup Trucks",Nondedicated
+2015,"Compressed Natural Gas (CNG)",104,"Medium Duty","Pickup Trucks",Dedicated
+2015,"Compressed Natural Gas (CNG)",58,"Medium Duty","Other Trucks",Dedicated
+2015,"Compressed Natural Gas (CNG)",273,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10,000 lbs)",Dedicated
+2015,"Compressed Natural Gas (CNG)",222,"Heavy Duty","Buses (School Buses)",Dedicated
+2015,"Compressed Natural Gas (CNG)",1469,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2015,"Compressed Natural Gas (CNG)",3208,"Heavy Duty","Other Trucks",Dedicated
+2015,"Compressed Natural Gas (CNG)",326,"Light Duty","Automobiles (Compact)",Nondedicated
+2015,"Compressed Natural Gas (CNG)",533,"Medium Duty","Pickup Trucks",Nondedicated
+2015,"Compressed Natural Gas (CNG)",51,"Medium Duty","Other Trucks",Dedicated
+2015,"Compressed Natural Gas (CNG)",32,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10,000 lbs)",Dedicated
+2014,"Compressed Natural Gas (CNG)",22,"Medium Duty","Other Trucks",Dedicated
+2014,"Compressed Natural Gas (CNG)",67,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+2014,"Compressed Natural Gas (CNG)",218,"Heavy Duty","Buses (School Buses)",Dedicated
+2014,"Compressed Natural Gas (CNG)",1335,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2014,"Compressed Natural Gas (CNG)",2543,"Heavy Duty","Other Trucks",Dedicated
+2014,"Compressed Natural Gas (CNG)",125,"Medium Duty","Pickup Trucks",Nondedicated
+2014,"Compressed Natural Gas (CNG)",778,"Medium Duty","Pickup Trucks",Dedicated
+2014,"Compressed Natural Gas (CNG)",123,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2014,"Compressed Natural Gas (CNG)",690,"Heavy Duty","Other Trucks",Dedicated
+2014,"Compressed Natural Gas (CNG)",88,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2014,"Compressed Natural Gas (CNG)",141,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+2014,"Compressed Natural Gas (CNG)",523,"Medium Duty","Pickup Trucks",Nondedicated
+2014,"Compressed Natural Gas (CNG)",9,"Medium Duty","Other Trucks",Dedicated
+2013,"Compressed Natural Gas (CNG)",23,"Heavy Duty","Buses (School Buses)",Nondedicated
+2013,"Compressed Natural Gas (CNG)",532,"Medium Duty","Pickup Trucks",Nondedicated
+2013,"Compressed Natural Gas (CNG)",275,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2013,"Compressed Natural Gas (CNG)",690,"Heavy Duty","Other Trucks",Dedicated
+2013,"Compressed Natural Gas (CNG)",2,"Light Duty","Vans (Small Passenger Vans)",Dedicated
+2013,"Compressed Natural Gas (CNG)",9,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+2013,"Compressed Natural Gas (CNG)",1108,"Medium Duty","Pickup Trucks",Nondedicated
+2013,"Compressed Natural Gas (CNG)",1,"Medium Duty","Other Trucks",Nondedicated
+2013,"Compressed Natural Gas (CNG)",556,"Medium Duty","Pickup Trucks",Dedicated
+2013,"Compressed Natural Gas (CNG)",75,"Medium Duty","Other Trucks",Dedicated
+2013,"Compressed Natural Gas (CNG)",1,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+2013,"Compressed Natural Gas (CNG)",375,"Heavy Duty","Buses (School Buses)",Dedicated
+2013,"Compressed Natural Gas (CNG)",12,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2013,"Compressed Natural Gas (CNG)",1258,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2013,"Compressed Natural Gas (CNG)",2278,"Heavy Duty","Other Trucks",Dedicated
+2013,"Compressed Natural Gas (CNG)",2198,"Light Duty","Automobiles (Compact)",Dedicated
+2013,"Compressed Natural Gas (CNG)",1,"Light Duty","Other Vehicles",Dedicated
+2013,"Compressed Natural Gas (CNG)",60,"Heavy Duty","Buses (Intercity Buses)",Dedicated
+2012,"Compressed Natural Gas (CNG)",23,"Heavy Duty","Buses (School Buses)",Nondedicated
+2012,"Compressed Natural Gas (CNG)",388,"Medium Duty","Other Trucks",Nondedicated
+2012,"Compressed Natural Gas (CNG)",98,"Heavy Duty","Buses (School Buses)",Dedicated
+2012,"Compressed Natural Gas (CNG)",505,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2012,"Compressed Natural Gas (CNG)",690,"Heavy Duty","Other Trucks",Dedicated
+2012,"Compressed Natural Gas (CNG)",14,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2012,"Compressed Natural Gas (CNG)",6,"Light Duty","Vans (Small Passenger Vans)",Dedicated
+2012,"Compressed Natural Gas (CNG)",7,"Medium Duty","Pickup Trucks",Nondedicated
+2012,"Compressed Natural Gas (CNG)",1,"Medium Duty","Other Trucks",Nondedicated
+2012,"Compressed Natural Gas (CNG)",311,"Medium Duty","Pickup Trucks",Dedicated
+2012,"Compressed Natural Gas (CNG)",354,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+2012,"Compressed Natural Gas (CNG)",153,"Heavy Duty","Buses (School Buses)",Dedicated
+2012,"Compressed Natural Gas (CNG)",12,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2012,"Compressed Natural Gas (CNG)",644,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2012,"Compressed Natural Gas (CNG)",1584,"Heavy Duty","Other Trucks",Dedicated
+2012,"Compressed Natural Gas (CNG)",2821,"Light Duty","Automobiles (Compact)",Dedicated
+2012,"Compressed Natural Gas (CNG)",1,"Light Duty","Other Vehicles",Dedicated
+2012,"Compressed Natural Gas (CNG)",60,"Heavy Duty","Buses (Intercity Buses)",Dedicated
+2011,"Compressed Natural Gas (CNG)",513,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2011,"Compressed Natural Gas (CNG)",31,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2011,"Compressed Natural Gas (CNG)",1100,"Light Duty","Automobiles (Compact)",Dedicated
+2011,"Compressed Natural Gas (CNG)",4,"Light Duty","Other Vehicles",Dedicated
+2011,"Compressed Natural Gas (CNG)",101,"Medium Duty","Other Trucks",Dedicated
+2011,"Compressed Natural Gas (CNG)",54,"Heavy Duty","Buses (Intercity Buses)",Dedicated
+2011,"Compressed Natural Gas (CNG)",448,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2011,"Compressed Natural Gas (CNG)",1,"Light Duty","Automobiles (Compact)",Nondedicated
+2011,"Compressed Natural Gas (CNG)",25,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2011,"Compressed Natural Gas (CNG)",5,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2011,"Compressed Natural Gas (CNG)",10,"Light Duty","Automobiles (Fullsize)",Dedicated
+2011,"Compressed Natural Gas (CNG)",163,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Dedicated
+2011,"Compressed Natural Gas (CNG)",19,"Medium Duty","Pickup Trucks",Nondedicated
+2011,"Compressed Natural Gas (CNG)",16,"Medium Duty","Other Trucks",Nondedicated
+2011,"Compressed Natural Gas (CNG)",1,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2011,"Compressed Natural Gas (CNG)",115,"Medium Duty","Pickup Trucks",Dedicated
+2011,"Compressed Natural Gas (CNG)",1059,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+2011,"Compressed Natural Gas (CNG)",452,"Heavy Duty","Buses (School Buses)",Dedicated
+2011,"Compressed Natural Gas (CNG)",1557,"Heavy Duty","Other Trucks",Dedicated
+2010,"Compressed Natural Gas (CNG)",661,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2010,"Compressed Natural Gas (CNG)",33,"Medium Duty","Other Trucks",Dedicated
+2010,"Compressed Natural Gas (CNG)",1,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2010,"Compressed Natural Gas (CNG)",11,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2010,"Compressed Natural Gas (CNG)",5,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2010,"Compressed Natural Gas (CNG)",1,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+2010,"Compressed Natural Gas (CNG)",27,"Light Duty","Automobiles (Fullsize)",Dedicated
+2010,"Compressed Natural Gas (CNG)",7,"Light Duty","Automobiles (Midsize)",Dedicated
+2010,"Compressed Natural Gas (CNG)",29,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+2010,"Compressed Natural Gas (CNG)",21,"Medium Duty","Pickup Trucks",Nondedicated
+2010,"Compressed Natural Gas (CNG)",13,"Medium Duty","Other Trucks",Nondedicated
+2010,"Compressed Natural Gas (CNG)",1,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2010,"Compressed Natural Gas (CNG)",104,"Medium Duty","Pickup Trucks",Dedicated
+2010,"Compressed Natural Gas (CNG)",689,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+2010,"Compressed Natural Gas (CNG)",526,"Heavy Duty","Buses (School Buses)",Dedicated
+2010,"Compressed Natural Gas (CNG)",25,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2010,"Compressed Natural Gas (CNG)",589,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2010,"Compressed Natural Gas (CNG)",1306,"Heavy Duty","Other Trucks",Dedicated
+2010,"Compressed Natural Gas (CNG)",921,"Light Duty","Automobiles (Compact)",Dedicated
+2010,"Compressed Natural Gas (CNG)",1,"Light Duty","Other Vehicles",Dedicated
+2010,"Compressed Natural Gas (CNG)",2,"Light Duty","Automobiles (Compact)",Nondedicated
+2009,"Compressed Natural Gas (CNG)",661,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2009,"Compressed Natural Gas (CNG)",1,"Medium Duty","Other Trucks",Dedicated
+2009,"Compressed Natural Gas (CNG)",1,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2009,"Compressed Natural Gas (CNG)",6,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+2009,"Compressed Natural Gas (CNG)",27,"Light Duty","Automobiles (Fullsize)",Dedicated
+2009,"Compressed Natural Gas (CNG)",29,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+2009,"Compressed Natural Gas (CNG)",32,"Medium Duty","Pickup Trucks",Nondedicated
+2009,"Compressed Natural Gas (CNG)",8,"Medium Duty","Other Trucks",Nondedicated
+2009,"Compressed Natural Gas (CNG)",110,"Medium Duty","Pickup Trucks",Dedicated
+2009,"Compressed Natural Gas (CNG)",664,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+2009,"Compressed Natural Gas (CNG)",176,"Heavy Duty","Buses (School Buses)",Dedicated
+2009,"Compressed Natural Gas (CNG)",13,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2009,"Compressed Natural Gas (CNG)",742,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2009,"Compressed Natural Gas (CNG)",945,"Heavy Duty","Other Trucks",Dedicated
+2009,"Compressed Natural Gas (CNG)",352,"Light Duty","Automobiles (Compact)",Dedicated
+2009,"Compressed Natural Gas (CNG)",2,"Light Duty","Other Vehicles",Dedicated
+2009,"Compressed Natural Gas (CNG)",1,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2008,"Compressed Natural Gas (CNG)",284,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2008,"Compressed Natural Gas (CNG)",2100,"Light Duty","Automobiles (Compact)",Dedicated
+2008,"Compressed Natural Gas (CNG)",1,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2008,"Compressed Natural Gas (CNG)",3,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+2008,"Compressed Natural Gas (CNG)",66,"Light Duty","Automobiles (Fullsize)",Dedicated
+2008,"Compressed Natural Gas (CNG)",19,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Dedicated
+2008,"Compressed Natural Gas (CNG)",29,"Medium Duty","Pickup Trucks",Nondedicated
+2008,"Compressed Natural Gas (CNG)",1,"Medium Duty","Other Trucks",Nondedicated
+2008,"Compressed Natural Gas (CNG)",1,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2008,"Compressed Natural Gas (CNG)",41,"Medium Duty","Pickup Trucks",Dedicated
+2008,"Compressed Natural Gas (CNG)",67,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+2008,"Compressed Natural Gas (CNG)",194,"Heavy Duty","Buses (School Buses)",Dedicated
+2008,"Compressed Natural Gas (CNG)",2,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2008,"Compressed Natural Gas (CNG)",882,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2008,"Compressed Natural Gas (CNG)",746,"Heavy Duty","Other Trucks",Dedicated
+2008,"Compressed Natural Gas (CNG)",4,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2007,"Compressed Natural Gas (CNG)",80,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2007,"Compressed Natural Gas (CNG)",30,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2007,"Compressed Natural Gas (CNG)",4,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2007,"Compressed Natural Gas (CNG)",100,"Light Duty","Automobiles (Fullsize)",Dedicated
+2007,"Compressed Natural Gas (CNG)",2,"Medium Duty","Other Trucks",Nondedicated
+2007,"Compressed Natural Gas (CNG)",1030,"Light Duty","Automobiles (Compact)",Dedicated
+2007,"Compressed Natural Gas (CNG)",8,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+2007,"Compressed Natural Gas (CNG)",324,"Heavy Duty","Buses (School Buses)",Dedicated
+2007,"Compressed Natural Gas (CNG)",536,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2007,"Compressed Natural Gas (CNG)",372,"Heavy Duty","Other Trucks",Dedicated
+2007,"Compressed Natural Gas (CNG)",1,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2006,"Compressed Natural Gas (CNG)",25,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2006,"Compressed Natural Gas (CNG)",14,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2006,"Compressed Natural Gas (CNG)",224,"Light Duty","Automobiles (Fullsize)",Dedicated
+2006,"Compressed Natural Gas (CNG)",18,"Medium Duty","Pickup Trucks",Nondedicated
+2006,"Compressed Natural Gas (CNG)",2,"Medium Duty","Other Trucks",Nondedicated
+2006,"Compressed Natural Gas (CNG)",723,"Light Duty","Automobiles (Compact)",Dedicated
+2006,"Compressed Natural Gas (CNG)",2,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+2006,"Compressed Natural Gas (CNG)",161,"Heavy Duty","Buses (School Buses)",Dedicated
+2006,"Compressed Natural Gas (CNG)",766,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2006,"Compressed Natural Gas (CNG)",165,"Heavy Duty","Other Trucks",Dedicated
+2006,"Compressed Natural Gas (CNG)",1008,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2006,"Compressed Natural Gas (CNG)",20,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2005,"Compressed Natural Gas (CNG)",8,"Heavy Duty","Buses (School Buses)",Nondedicated
+2005,"Compressed Natural Gas (CNG)",12,"Medium Duty","Other Trucks",Dedicated
+2005,"Compressed Natural Gas (CNG)",25,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2005,"Compressed Natural Gas (CNG)",8,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2005,"Compressed Natural Gas (CNG)",3,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+2005,"Compressed Natural Gas (CNG)",224,"Light Duty","Automobiles (Fullsize)",Dedicated
+2005,"Compressed Natural Gas (CNG)",28,"Medium Duty","Pickup Trucks",Nondedicated
+2005,"Compressed Natural Gas (CNG)",23,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2005,"Compressed Natural Gas (CNG)",237,"Heavy Duty","Buses (School Buses)",Dedicated
+2005,"Compressed Natural Gas (CNG)",34,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2005,"Compressed Natural Gas (CNG)",893,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2005,"Compressed Natural Gas (CNG)",117,"Heavy Duty","Other Trucks",Dedicated
+2005,"Compressed Natural Gas (CNG)",958,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2005,"Compressed Natural Gas (CNG)",642,"Light Duty","Automobiles (Compact)",Dedicated
+2005,"Compressed Natural Gas (CNG)",87,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+2005,"Compressed Natural Gas (CNG)",5,"Heavy Duty","Buses (School Buses)",Dedicated
+2004,"Compressed Natural Gas (CNG)",8,"Heavy Duty","Buses (School Buses)",Nondedicated
+2004,"Compressed Natural Gas (CNG)",176,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+2004,"Compressed Natural Gas (CNG)",28,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2004,"Compressed Natural Gas (CNG)",9,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2004,"Compressed Natural Gas (CNG)",5,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2004,"Compressed Natural Gas (CNG)",174,"Light Duty","Automobiles (Fullsize)",Dedicated
+2004,"Compressed Natural Gas (CNG)",28,"Medium Duty","Pickup Trucks",Nondedicated
+2004,"Compressed Natural Gas (CNG)",9,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2004,"Compressed Natural Gas (CNG)",240,"Heavy Duty","Buses (School Buses)",Dedicated
+2004,"Compressed Natural Gas (CNG)",79,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2004,"Compressed Natural Gas (CNG)",848,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2004,"Compressed Natural Gas (CNG)",161,"Heavy Duty","Other Trucks",Dedicated
+2004,"Compressed Natural Gas (CNG)",257,"Light Duty","Automobiles (Subcompact)",Nondedicated
+2004,"Compressed Natural Gas (CNG)",560,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2004,"Compressed Natural Gas (CNG)",391,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+2004,"Compressed Natural Gas (CNG)",526,"Light Duty","Automobiles (Compact)",Dedicated
+2004,"Compressed Natural Gas (CNG)",172,"Light Duty","Automobiles (Fullsize)",Dedicated
+2004,"Compressed Natural Gas (CNG)",223,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+2004,"Compressed Natural Gas (CNG)",357,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Dedicated
+2004,"Compressed Natural Gas (CNG)",1404,"Medium Duty","Pickup Trucks",Nondedicated
+2004,"Compressed Natural Gas (CNG)",71,"Medium Duty","Other Trucks",Nondedicated
+2004,"Compressed Natural Gas (CNG)",612,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2004,"Compressed Natural Gas (CNG)",1327,"Medium Duty","Pickup Trucks",Dedicated
+2004,"Compressed Natural Gas (CNG)",82,"Medium Duty","Other Trucks",Dedicated
+2004,"Compressed Natural Gas (CNG)",5,"Heavy Duty","Buses (School Buses)",Dedicated
+2003,"Compressed Natural Gas (CNG)",5,"Heavy Duty","Buses (School Buses)",Nondedicated
+2003,"Compressed Natural Gas (CNG)",149,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+2003,"Compressed Natural Gas (CNG)",12,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2003,"Compressed Natural Gas (CNG)",22,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2003,"Compressed Natural Gas (CNG)",25,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+2003,"Compressed Natural Gas (CNG)",8,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2003,"Compressed Natural Gas (CNG)",27,"Medium Duty","Pickup Trucks",Nondedicated
+2003,"Compressed Natural Gas (CNG)",21,"Medium Duty","Other Trucks",Nondedicated
+2003,"Compressed Natural Gas (CNG)",6,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+2003,"Compressed Natural Gas (CNG)",3,"Medium Duty","Other Trucks",Nondedicated
+2003,"Compressed Natural Gas (CNG)",234,"Heavy Duty","Buses (School Buses)",Dedicated
+2003,"Compressed Natural Gas (CNG)",119,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2003,"Compressed Natural Gas (CNG)",668,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2003,"Compressed Natural Gas (CNG)",141,"Heavy Duty","Other Trucks",Dedicated
+2003,"Compressed Natural Gas (CNG)",412,"Light Duty","Automobiles (Subcompact)",Nondedicated
+2003,"Compressed Natural Gas (CNG)",323,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2003,"Compressed Natural Gas (CNG)",561,"Light Duty","Automobiles (Compact)",Dedicated
+2003,"Compressed Natural Gas (CNG)",463,"Light Duty","Automobiles (Fullsize)",Dedicated
+2003,"Compressed Natural Gas (CNG)",7,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+2003,"Compressed Natural Gas (CNG)",408,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Dedicated
+2003,"Compressed Natural Gas (CNG)",1272,"Medium Duty","Pickup Trucks",Nondedicated
+2003,"Compressed Natural Gas (CNG)",20,"Medium Duty","Other Trucks",Nondedicated
+2003,"Compressed Natural Gas (CNG)",612,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2003,"Compressed Natural Gas (CNG)",521,"Medium Duty","Pickup Trucks",Dedicated
+2003,"Compressed Natural Gas (CNG)",74,"Medium Duty","Other Trucks",Dedicated
+2003,"Compressed Natural Gas (CNG)",9,"Heavy Duty","Buses (School Buses)",Dedicated
+2002,"Compressed Natural Gas (CNG)",11,"Heavy Duty","Buses (School Buses)",Nondedicated
+2002,"Compressed Natural Gas (CNG)",84,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2002,"Compressed Natural Gas (CNG)",300,"Heavy Duty","Other Trucks",Dedicated
+2002,"Compressed Natural Gas (CNG)",4,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2002,"Compressed Natural Gas (CNG)",37,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2002,"Compressed Natural Gas (CNG)",6,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2002,"Compressed Natural Gas (CNG)",214,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+2002,"Compressed Natural Gas (CNG)",1,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Dedicated
+2002,"Compressed Natural Gas (CNG)",4,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2002,"Compressed Natural Gas (CNG)",8,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+2002,"Compressed Natural Gas (CNG)",81,"Medium Duty","Pickup Trucks",Nondedicated
+2002,"Compressed Natural Gas (CNG)",21,"Medium Duty","Other Trucks",Nondedicated
+2002,"Compressed Natural Gas (CNG)",9,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2002,"Compressed Natural Gas (CNG)",11,"Medium Duty","Pickup Trucks",Dedicated
+2002,"Compressed Natural Gas (CNG)",7,"Medium Duty","Other Trucks",Dedicated
+2002,"Compressed Natural Gas (CNG)",1,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+2002,"Compressed Natural Gas (CNG)",446,"Heavy Duty","Buses (School Buses)",Dedicated
+2002,"Compressed Natural Gas (CNG)",376,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2002,"Compressed Natural Gas (CNG)",980,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2002,"Compressed Natural Gas (CNG)",7,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2002,"Compressed Natural Gas (CNG)",113,"Heavy Duty","Other Trucks",Dedicated
+2002,"Compressed Natural Gas (CNG)",2,"Light Duty","Automobiles (Compact)",Nondedicated
+2002,"Compressed Natural Gas (CNG)",964,"Light Duty","Automobiles (Subcompact)",Nondedicated
+2002,"Compressed Natural Gas (CNG)",28,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2002,"Compressed Natural Gas (CNG)",691,"Light Duty","Automobiles (Compact)",Dedicated
+2002,"Compressed Natural Gas (CNG)",495,"Light Duty","Automobiles (Fullsize)",Dedicated
+2002,"Compressed Natural Gas (CNG)",809,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Dedicated
+2002,"Compressed Natural Gas (CNG)",1725,"Medium Duty","Pickup Trucks",Nondedicated
+2002,"Compressed Natural Gas (CNG)",690,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2002,"Compressed Natural Gas (CNG)",647,"Medium Duty","Pickup Trucks",Dedicated
+2002,"Compressed Natural Gas (CNG)",37,"Medium Duty","Other Trucks",Dedicated
+2002,"Compressed Natural Gas (CNG)",178,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+2002,"Compressed Natural Gas (CNG)",1,"Medium Duty","Other Trucks",Nondedicated
+2001,"Compressed Natural Gas (CNG)",102,"Medium Duty","Pickup Trucks",Nondedicated
+2001,"Compressed Natural Gas (CNG)",8,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+2001,"Compressed Natural Gas (CNG)",5,"Medium Duty","Other Trucks",Dedicated
+2001,"Compressed Natural Gas (CNG)",60,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+2001,"Compressed Natural Gas (CNG)",292,"Heavy Duty","Buses (School Buses)",Dedicated
+2001,"Compressed Natural Gas (CNG)",64,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2001,"Compressed Natural Gas (CNG)",1186,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2001,"Compressed Natural Gas (CNG)",22,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2001,"Compressed Natural Gas (CNG)",117,"Heavy Duty","Other Trucks",Dedicated
+2001,"Compressed Natural Gas (CNG)",215,"Light Duty","Automobiles (Midsize)",Nondedicated
+2001,"Compressed Natural Gas (CNG)",2417,"Light Duty","Automobiles (Subcompact)",Nondedicated
+2001,"Compressed Natural Gas (CNG)",794,"Light Duty","Automobiles (Compact)",Dedicated
+2001,"Compressed Natural Gas (CNG)",610,"Light Duty","Automobiles (Fullsize)",Dedicated
+2001,"Compressed Natural Gas (CNG)",456,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Dedicated
+2001,"Compressed Natural Gas (CNG)",1985,"Medium Duty","Pickup Trucks",Nondedicated
+2001,"Compressed Natural Gas (CNG)",791,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2001,"Compressed Natural Gas (CNG)",635,"Medium Duty","Pickup Trucks",Dedicated
+2001,"Compressed Natural Gas (CNG)",31,"Medium Duty","Other Trucks",Dedicated
+2001,"Compressed Natural Gas (CNG)",786,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+2001,"Compressed Natural Gas (CNG)",1,"Medium Duty","Pickup Trucks",Dedicated
+2001,"Compressed Natural Gas (CNG)",17,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2001,"Compressed Natural Gas (CNG)",1,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Dedicated
+2001,"Compressed Natural Gas (CNG)",113,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+2001,"Compressed Natural Gas (CNG)",6,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2001,"Compressed Natural Gas (CNG)",71,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2001,"Compressed Natural Gas (CNG)",3,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2001,"Compressed Natural Gas (CNG)",300,"Heavy Duty","Other Trucks",Dedicated
+2001,"Compressed Natural Gas (CNG)",1,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2001,"Compressed Natural Gas (CNG)",32,"Heavy Duty","Buses (Intercity Buses)",Dedicated
+2000,"Compressed Natural Gas (CNG)",14,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2000,"Compressed Natural Gas (CNG)",1,"Heavy Duty","Buses (School Buses)",Nondedicated
+2000,"Compressed Natural Gas (CNG)",79,"Heavy Duty","Buses (Intercity Buses)",Dedicated
+2000,"Compressed Natural Gas (CNG)",147,"Heavy Duty","Buses (School Buses)",Dedicated
+2000,"Compressed Natural Gas (CNG)",950,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2000,"Compressed Natural Gas (CNG)",65,"Heavy Duty","Other Trucks",Dedicated
+2000,"Compressed Natural Gas (CNG)",3,"Heavy Duty","Other Trucks",Nondedicated
+2000,"Compressed Natural Gas (CNG)",3508,"Light Duty","Automobiles (Compact)",Nondedicated
+2000,"Compressed Natural Gas (CNG)",1459,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2000,"Compressed Natural Gas (CNG)",913,"Light Duty","Automobiles (Compact)",Dedicated
+2000,"Compressed Natural Gas (CNG)",506,"Light Duty","Automobiles (Fullsize)",Dedicated
+2000,"Compressed Natural Gas (CNG)",140,"Light Duty","Automobiles (Midsize)",Dedicated
+2000,"Compressed Natural Gas (CNG)",300,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Dedicated
+2000,"Compressed Natural Gas (CNG)",734,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+2000,"Compressed Natural Gas (CNG)",84,"Medium Duty","Other Trucks",Nondedicated
+2000,"Compressed Natural Gas (CNG)",1,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Dedicated
+2000,"Compressed Natural Gas (CNG)",12,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+2000,"Compressed Natural Gas (CNG)",6,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+2000,"Compressed Natural Gas (CNG)",358,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2000,"Compressed Natural Gas (CNG)",4,"Light Duty","Automobiles (Midsize)",Nondedicated
+2000,"Compressed Natural Gas (CNG)",67,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2000,"Compressed Natural Gas (CNG)",122,"Heavy Duty","Other Trucks",Dedicated
+2000,"Compressed Natural Gas (CNG)",23,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2000,"Compressed Natural Gas (CNG)",5,"Medium Duty","Other Trucks",Dedicated
+1999,"Compressed Natural Gas (CNG)",12,"Heavy Duty","Buses (School Buses)",Dedicated
+1999,"Compressed Natural Gas (CNG)",562,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+1999,"Compressed Natural Gas (CNG)",22,"Heavy Duty","Buses (School Buses)",Nondedicated
+1999,"Compressed Natural Gas (CNG)",5,"Heavy Duty","Buses (Intercity Buses)",Dedicated
+1999,"Compressed Natural Gas (CNG)",61,"Light Duty","Automobiles (Fullsize)",Nondedicated
+1999,"Compressed Natural Gas (CNG)",54,"Light Duty","Automobiles (Midsize)",Nondedicated
+1999,"Compressed Natural Gas (CNG)",523,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1999,"Compressed Natural Gas (CNG)",31,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+1999,"Compressed Natural Gas (CNG)",40,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1999,"Compressed Natural Gas (CNG)",15,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+1999,"Compressed Natural Gas (CNG)",55,"Medium Duty","Other Trucks",Nondedicated
+1999,"Compressed Natural Gas (CNG)",4,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+1999,"Compressed Natural Gas (CNG)",2,"Medium Duty","Other Trucks",Dedicated
+1999,"Compressed Natural Gas (CNG)",1,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+1999,"Compressed Natural Gas (CNG)",50,"Heavy Duty","Buses (Intercity Buses)",Dedicated
+1999,"Compressed Natural Gas (CNG)",173,"Heavy Duty","Buses (School Buses)",Dedicated
+1999,"Compressed Natural Gas (CNG)",822,"Heavy Duty","Buses (Transit Buses)",Dedicated
+1999,"Compressed Natural Gas (CNG)",33,"Heavy Duty","Other Trucks",Dedicated
+1999,"Compressed Natural Gas (CNG)",293,"Heavy Duty","Other Trucks",Nondedicated
+1999,"Compressed Natural Gas (CNG)",2256,"Light Duty","Automobiles (Compact)",Nondedicated
+1999,"Compressed Natural Gas (CNG)",1179,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1999,"Compressed Natural Gas (CNG)",291,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1999,"Compressed Natural Gas (CNG)",600,"Light Duty","Automobiles (Compact)",Dedicated
+1999,"Compressed Natural Gas (CNG)",532,"Light Duty","Automobiles (Fullsize)",Dedicated
+1999,"Compressed Natural Gas (CNG)",51,"Light Duty","Automobiles (Midsize)",Dedicated
+1999,"Compressed Natural Gas (CNG)",231,"Light Duty","Vans (Small Passenger Vans)",Dedicated
+1999,"Compressed Natural Gas (CNG)",447,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+1999,"Compressed Natural Gas (CNG)",58,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Dedicated
+1999,"Compressed Natural Gas (CNG)",420,"Medium Duty","Other Trucks",Nondedicated
+1999,"Compressed Natural Gas (CNG)",464,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+1999,"Compressed Natural Gas (CNG)",48,"Medium Duty","Other Trucks",Dedicated
+1999,"Compressed Natural Gas (CNG)",9,"Heavy Duty","Other Trucks",Dedicated
+1998,"Compressed Natural Gas (CNG)",1079,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1998,"Compressed Natural Gas (CNG)",2372,"Light Duty","Automobiles (Compact)",Nondedicated
+1998,"Compressed Natural Gas (CNG)",486,"Light Duty","Automobiles (Compact)",Dedicated
+1998,"Compressed Natural Gas (CNG)",615,"Light Duty","Automobiles (Fullsize)",Dedicated
+1998,"Compressed Natural Gas (CNG)",492,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+1998,"Compressed Natural Gas (CNG)",534,"Medium Duty","Other Trucks",Nondedicated
+1998,"Compressed Natural Gas (CNG)",213,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+1998,"Compressed Natural Gas (CNG)",15,"Medium Duty","Other Trucks",Dedicated
+1998,"Compressed Natural Gas (CNG)",717,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+1998,"Compressed Natural Gas (CNG)",35,"Heavy Duty","Buses (School Buses)",Nondedicated
+1998,"Compressed Natural Gas (CNG)",7,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+1998,"Compressed Natural Gas (CNG)",12,"Heavy Duty","Buses (School Buses)",Dedicated
+1998,"Compressed Natural Gas (CNG)",1,"Heavy Duty","Buses (Transit Buses)",Dedicated
+1998,"Compressed Natural Gas (CNG)",5,"Heavy Duty","Other Trucks",Dedicated
+1998,"Compressed Natural Gas (CNG)",17,"Heavy Duty","Other Trucks",Nondedicated
+1998,"Compressed Natural Gas (CNG)",101,"Light Duty","Automobiles (Compact)",Nondedicated
+1998,"Compressed Natural Gas (CNG)",188,"Light Duty","Automobiles (Fullsize)",Nondedicated
+1998,"Compressed Natural Gas (CNG)",145,"Light Duty","Automobiles (Midsize)",Nondedicated
+1998,"Compressed Natural Gas (CNG)",36,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+1998,"Compressed Natural Gas (CNG)",755,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1998,"Compressed Natural Gas (CNG)",57,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+1998,"Compressed Natural Gas (CNG)",123,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1998,"Compressed Natural Gas (CNG)",1,"Light Duty","Vans (Small Passenger Vans)",Dedicated
+1998,"Compressed Natural Gas (CNG)",7,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+1998,"Compressed Natural Gas (CNG)",73,"Medium Duty","Other Trucks",Nondedicated
+1998,"Compressed Natural Gas (CNG)",12,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+1998,"Compressed Natural Gas (CNG)",244,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+1998,"Compressed Natural Gas (CNG)",134,"Heavy Duty","Buses (School Buses)",Dedicated
+1998,"Compressed Natural Gas (CNG)",438,"Heavy Duty","Buses (Transit Buses)",Dedicated
+1998,"Compressed Natural Gas (CNG)",20,"Heavy Duty","Other Trucks",Dedicated
+1998,"Compressed Natural Gas (CNG)",72,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1997,"Compressed Natural Gas (CNG)",20,"Heavy Duty","Buses (School Buses)",Nondedicated
+1997,"Compressed Natural Gas (CNG)",386,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+1997,"Compressed Natural Gas (CNG)",2,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+1997,"Compressed Natural Gas (CNG)",22,"Heavy Duty","Other Trucks",Nondedicated
+1997,"Compressed Natural Gas (CNG)",7,"Heavy Duty","Other Trucks",Dedicated
+1997,"Compressed Natural Gas (CNG)",24,"Heavy Duty","Buses (School Buses)",Dedicated
+1997,"Compressed Natural Gas (CNG)",24,"Heavy Duty","Buses (Transit Buses)",Dedicated
+1997,"Compressed Natural Gas (CNG)",92,"Heavy Duty","Other Trucks",Nondedicated
+1997,"Compressed Natural Gas (CNG)",140,"Light Duty","Automobiles (Compact)",Nondedicated
+1997,"Compressed Natural Gas (CNG)",366,"Light Duty","Automobiles (Fullsize)",Nondedicated
+1997,"Compressed Natural Gas (CNG)",430,"Light Duty","Automobiles (Midsize)",Nondedicated
+1997,"Compressed Natural Gas (CNG)",91,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+1997,"Compressed Natural Gas (CNG)",1062,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1997,"Compressed Natural Gas (CNG)",650,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+1997,"Compressed Natural Gas (CNG)",314,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1997,"Compressed Natural Gas (CNG)",20,"Light Duty","Automobiles (Compact)",Dedicated
+1997,"Compressed Natural Gas (CNG)",142,"Light Duty","Automobiles (Midsize)",Dedicated
+1997,"Compressed Natural Gas (CNG)",248,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+1997,"Compressed Natural Gas (CNG)",15,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Dedicated
+1997,"Compressed Natural Gas (CNG)",35,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Dedicated
+1997,"Compressed Natural Gas (CNG)",2,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1997,"Compressed Natural Gas (CNG)",414,"Medium Duty","Other Trucks",Nondedicated
+1997,"Compressed Natural Gas (CNG)",19,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+1997,"Compressed Natural Gas (CNG)",26,"Medium Duty","Other Trucks",Dedicated
+1997,"Compressed Natural Gas (CNG)",31,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+1997,"Compressed Natural Gas (CNG)",54,"Medium Duty","Other Trucks",Nondedicated
+1997,"Compressed Natural Gas (CNG)",180,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+1997,"Compressed Natural Gas (CNG)",116,"Heavy Duty","Buses (School Buses)",Dedicated
+1997,"Compressed Natural Gas (CNG)",661,"Heavy Duty","Buses (Transit Buses)",Dedicated
+1997,"Compressed Natural Gas (CNG)",34,"Heavy Duty","Other Trucks",Dedicated
+1997,"Compressed Natural Gas (CNG)",683,"Light Duty","Automobiles (Compact)",Nondedicated
+1997,"Compressed Natural Gas (CNG)",500,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1997,"Compressed Natural Gas (CNG)",303,"Light Duty","Automobiles (Fullsize)",Dedicated
+1997,"Compressed Natural Gas (CNG)",478,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+1997,"Compressed Natural Gas (CNG)",322,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Dedicated
+1997,"Compressed Natural Gas (CNG)",423,"Medium Duty","Other Trucks",Nondedicated
+1997,"Compressed Natural Gas (CNG)",234,"Medium Duty","Other Trucks",Dedicated
+1997,"Compressed Natural Gas (CNG)",12,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+1996,"Compressed Natural Gas (CNG)",63,"Light Duty","Vans (Small Passenger Vans)",Dedicated
+1996,"Compressed Natural Gas (CNG)",113,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+1996,"Compressed Natural Gas (CNG)",503,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Dedicated
+1996,"Compressed Natural Gas (CNG)",3,"Medium Duty","Other Trucks",Dedicated
+1996,"Compressed Natural Gas (CNG)",25,"Heavy Duty","Buses (Intercity Buses)",Nondedicated
+1996,"Compressed Natural Gas (CNG)",114,"Heavy Duty","Buses (School Buses)",Nondedicated
+1996,"Compressed Natural Gas (CNG)",42,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+1996,"Compressed Natural Gas (CNG)",49,"Heavy Duty","Other Trucks",Nondedicated
+1996,"Compressed Natural Gas (CNG)",10,"Heavy Duty","Buses (Intercity Buses)",Dedicated
+1996,"Compressed Natural Gas (CNG)",17,"Heavy Duty","Buses (School Buses)",Dedicated
+1996,"Compressed Natural Gas (CNG)",30,"Heavy Duty","Buses (Transit Buses)",Dedicated
+1996,"Compressed Natural Gas (CNG)",108,"Heavy Duty","Other Trucks",Dedicated
+1996,"Compressed Natural Gas (CNG)",5,"Heavy Duty","Buses (School Buses)",Nondedicated
+1996,"Compressed Natural Gas (CNG)",5,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+1996,"Compressed Natural Gas (CNG)",85,"Heavy Duty","Other Trucks",Nondedicated
+1996,"Compressed Natural Gas (CNG)",23,"Light Duty","Automobiles (Compact)",Nondedicated
+1996,"Compressed Natural Gas (CNG)",538,"Light Duty","Automobiles (Fullsize)",Nondedicated
+1996,"Compressed Natural Gas (CNG)",590,"Light Duty","Automobiles (Midsize)",Nondedicated
+1996,"Compressed Natural Gas (CNG)",73,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+1996,"Compressed Natural Gas (CNG)",1284,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1996,"Compressed Natural Gas (CNG)",1505,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+1996,"Compressed Natural Gas (CNG)",844,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1996,"Compressed Natural Gas (CNG)",18,"Light Duty","Automobiles (Compact)",Dedicated
+1996,"Compressed Natural Gas (CNG)",125,"Light Duty","Automobiles (Midsize)",Dedicated
+1996,"Compressed Natural Gas (CNG)",2,"Light Duty","Vans (Small Passenger Vans)",Dedicated
+1996,"Compressed Natural Gas (CNG)",182,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+1996,"Compressed Natural Gas (CNG)",5,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Dedicated
+1996,"Compressed Natural Gas (CNG)",32,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Dedicated
+1996,"Compressed Natural Gas (CNG)",2,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1996,"Compressed Natural Gas (CNG)",205,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1996,"Compressed Natural Gas (CNG)",566,"Medium Duty","Other Trucks",Nondedicated
+1996,"Compressed Natural Gas (CNG)",397,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+1996,"Compressed Natural Gas (CNG)",59,"Medium Duty","Other Trucks",Dedicated
+1996,"Compressed Natural Gas (CNG)",52,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+1996,"Compressed Natural Gas (CNG)",40,"Medium Duty","Other Trucks",Nondedicated
+1996,"Compressed Natural Gas (CNG)",2,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+1996,"Compressed Natural Gas (CNG)",8,"Heavy Duty","Buses (School Buses)",Nondedicated
+1996,"Compressed Natural Gas (CNG)",239,"Heavy Duty","Buses (School Buses)",Dedicated
+1996,"Compressed Natural Gas (CNG)",630,"Heavy Duty","Buses (Transit Buses)",Dedicated
+1996,"Compressed Natural Gas (CNG)",28,"Heavy Duty","Other Trucks",Dedicated
+1996,"Compressed Natural Gas (CNG)",1070,"Light Duty","Automobiles (Compact)",Nondedicated
+1996,"Compressed Natural Gas (CNG)",20,"Light Duty","Automobiles (Midsize)",Nondedicated
+1996,"Compressed Natural Gas (CNG)",3,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1996,"Compressed Natural Gas (CNG)",263,"Light Duty","Automobiles (Fullsize)",Dedicated
+1995,"Compressed Natural Gas (CNG)",14,"Heavy Duty","Buses (Intercity Buses)",Nondedicated
+1995,"Compressed Natural Gas (CNG)",2,"Medium Duty","Other Trucks",Nondedicated
+1995,"Compressed Natural Gas (CNG)",163,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+1995,"Compressed Natural Gas (CNG)",60,"Heavy Duty","Other Trucks",Nondedicated
+1995,"Compressed Natural Gas (CNG)",39,"Heavy Duty","Buses (Intercity Buses)",Dedicated
+1995,"Compressed Natural Gas (CNG)",30,"Heavy Duty","Buses (School Buses)",Dedicated
+1995,"Compressed Natural Gas (CNG)",18,"Heavy Duty","Buses (Transit Buses)",Dedicated
+1995,"Compressed Natural Gas (CNG)",4,"Heavy Duty","Other Trucks",Dedicated
+1995,"Compressed Natural Gas (CNG)",11,"Heavy Duty","Buses (School Buses)",Nondedicated
+1995,"Compressed Natural Gas (CNG)",71,"Heavy Duty","Other Trucks",Nondedicated
+1995,"Compressed Natural Gas (CNG)",203,"Light Duty","Automobiles (Compact)",Nondedicated
+1995,"Compressed Natural Gas (CNG)",463,"Light Duty","Automobiles (Fullsize)",Nondedicated
+1995,"Compressed Natural Gas (CNG)",725,"Light Duty","Automobiles (Midsize)",Nondedicated
+1995,"Compressed Natural Gas (CNG)",143,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+1995,"Compressed Natural Gas (CNG)",10,"Light Duty","Other Vehicles",Nondedicated
+1995,"Compressed Natural Gas (CNG)",2563,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1995,"Compressed Natural Gas (CNG)",1029,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+1995,"Compressed Natural Gas (CNG)",699,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1995,"Compressed Natural Gas (CNG)",4,"Light Duty","Automobiles (Compact)",Dedicated
+1995,"Compressed Natural Gas (CNG)",1,"Light Duty","Automobiles (Fullsize)",Dedicated
+1995,"Compressed Natural Gas (CNG)",1,"Light Duty","Automobiles (Midsize)",Dedicated
+1995,"Compressed Natural Gas (CNG)",1,"Light Duty","Vans (Small Passenger Vans)",Dedicated
+1995,"Compressed Natural Gas (CNG)",24,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+1995,"Compressed Natural Gas (CNG)",30,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Dedicated
+1995,"Compressed Natural Gas (CNG)",1,"Light Duty","Automobiles (Compact)",Nondedicated
+1995,"Compressed Natural Gas (CNG)",6,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1995,"Compressed Natural Gas (CNG)",154,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1995,"Compressed Natural Gas (CNG)",811,"Medium Duty","Other Trucks",Nondedicated
+1995,"Compressed Natural Gas (CNG)",557,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+1995,"Compressed Natural Gas (CNG)",6,"Medium Duty","Other Trucks",Dedicated
+1995,"Compressed Natural Gas (CNG)",87,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+1995,"Compressed Natural Gas (CNG)",29,"Medium Duty","Other Trucks",Nondedicated
+1995,"Compressed Natural Gas (CNG)",14,"Heavy Duty","Buses (School Buses)",Nondedicated
+1995,"Compressed Natural Gas (CNG)",8,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+1995,"Compressed Natural Gas (CNG)",3,"Heavy Duty","Other Trucks",Nondedicated
+1995,"Compressed Natural Gas (CNG)",61,"Heavy Duty","Buses (School Buses)",Dedicated
+1995,"Compressed Natural Gas (CNG)",256,"Heavy Duty","Buses (Transit Buses)",Dedicated
+1995,"Compressed Natural Gas (CNG)",25,"Heavy Duty","Other Trucks",Dedicated
+1995,"Compressed Natural Gas (CNG)",2,"Heavy Duty","Other Trucks",Nondedicated
+1995,"Compressed Natural Gas (CNG)",5,"Light Duty","Automobiles (Compact)",Nondedicated
+1995,"Compressed Natural Gas (CNG)",1,"Light Duty","Automobiles (Fullsize)",Nondedicated
+1995,"Compressed Natural Gas (CNG)",17,"Light Duty","Automobiles (Midsize)",Nondedicated
+1995,"Compressed Natural Gas (CNG)",3,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+1995,"Compressed Natural Gas (CNG)",591,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1995,"Compressed Natural Gas (CNG)",32,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1995,"Compressed Natural Gas (CNG)",129,"Light Duty","Automobiles (Fullsize)",Dedicated
+1995,"Compressed Natural Gas (CNG)",240,"Light Duty","Vans (Small Passenger Vans)",Dedicated
+1995,"Compressed Natural Gas (CNG)",2,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+1995,"Compressed Natural Gas (CNG)",1,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Dedicated
+1995,"Compressed Natural Gas (CNG)",540,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Dedicated
+1995,"Compressed Natural Gas (CNG)",28,"Medium Duty","Other Trucks",Nondedicated
+1995,"Compressed Natural Gas (CNG)",20,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+1995,"Compressed Natural Gas (CNG)",89,"Heavy Duty","Buses (School Buses)",Nondedicated
+1994,"Compressed Natural Gas (CNG)",5,"Light Duty","Automobiles (Fullsize)",Nondedicated
+1994,"Compressed Natural Gas (CNG)",6,"Light Duty","Automobiles (Compact)",Nondedicated
+1994,"Compressed Natural Gas (CNG)",7,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+1994,"Compressed Natural Gas (CNG)",31,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1994,"Compressed Natural Gas (CNG)",22,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+1994,"Compressed Natural Gas (CNG)",21,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1994,"Compressed Natural Gas (CNG)",458,"Medium Duty","Other Trucks",Nondedicated
+1994,"Compressed Natural Gas (CNG)",108,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+1994,"Compressed Natural Gas (CNG)",2,"Medium Duty","Other Trucks",Dedicated
+1994,"Compressed Natural Gas (CNG)",3,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+1994,"Compressed Natural Gas (CNG)",77,"Medium Duty","Other Trucks",Nondedicated
+1994,"Compressed Natural Gas (CNG)",1,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+1994,"Compressed Natural Gas (CNG)",27,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+1994,"Compressed Natural Gas (CNG)",24,"Heavy Duty","Buses (School Buses)",Dedicated
+1994,"Compressed Natural Gas (CNG)",250,"Heavy Duty","Buses (Transit Buses)",Dedicated
+1994,"Compressed Natural Gas (CNG)",11,"Heavy Duty","Other Trucks",Dedicated
+1994,"Compressed Natural Gas (CNG)",18,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+1994,"Compressed Natural Gas (CNG)",1,"Light Duty","Automobiles (Compact)",Nondedicated
+1994,"Compressed Natural Gas (CNG)",39,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1994,"Compressed Natural Gas (CNG)",65,"Light Duty","Automobiles (Compact)",Dedicated
+1994,"Compressed Natural Gas (CNG)",7,"Light Duty","Automobiles (Fullsize)",Dedicated
+1994,"Compressed Natural Gas (CNG)",71,"Light Duty","Automobiles (Midsize)",Dedicated
+1994,"Compressed Natural Gas (CNG)",570,"Light Duty","Vans (Small Passenger Vans)",Dedicated
+1994,"Compressed Natural Gas (CNG)",914,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Dedicated
+1994,"Compressed Natural Gas (CNG)",13,"Medium Duty","Other Trucks",Nondedicated
+1994,"Compressed Natural Gas (CNG)",3,"Medium Duty","Other Trucks",Dedicated
+1994,"Compressed Natural Gas (CNG)",17,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+1994,"Compressed Natural Gas (CNG)",31,"Heavy Duty","Other Trucks",Nondedicated
+1994,"Compressed Natural Gas (CNG)",1,"Heavy Duty","Buses (Intercity Buses)",Dedicated
+1994,"Compressed Natural Gas (CNG)",22,"Heavy Duty","Buses (Transit Buses)",Dedicated
+1994,"Compressed Natural Gas (CNG)",3,"Heavy Duty","Other Trucks",Dedicated
+1994,"Compressed Natural Gas (CNG)",27,"Heavy Duty","Buses (School Buses)",Nondedicated
+1994,"Compressed Natural Gas (CNG)",9,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+1994,"Compressed Natural Gas (CNG)",12,"Heavy Duty","Buses (School Buses)",Nondedicated
+1994,"Compressed Natural Gas (CNG)",29,"Heavy Duty","Other Trucks",Nondedicated
+1994,"Compressed Natural Gas (CNG)",173,"Light Duty","Automobiles (Compact)",Nondedicated
+1994,"Compressed Natural Gas (CNG)",268,"Light Duty","Automobiles (Fullsize)",Nondedicated
+1994,"Compressed Natural Gas (CNG)",264,"Light Duty","Automobiles (Midsize)",Nondedicated
+1994,"Compressed Natural Gas (CNG)",166,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+1994,"Compressed Natural Gas (CNG)",1959,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1994,"Compressed Natural Gas (CNG)",104,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+1994,"Compressed Natural Gas (CNG)",138,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+1994,"Compressed Natural Gas (CNG)",798,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1994,"Compressed Natural Gas (CNG)",2,"Light Duty","Automobiles (Compact)",Dedicated
+1994,"Compressed Natural Gas (CNG)",11,"Light Duty","Automobiles (Fullsize)",Dedicated
+1994,"Compressed Natural Gas (CNG)",4,"Light Duty","Vans (Small Passenger Vans)",Dedicated
+1994,"Compressed Natural Gas (CNG)",17,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+1994,"Compressed Natural Gas (CNG)",3,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Dedicated
+1994,"Compressed Natural Gas (CNG)",29,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Dedicated
+1994,"Compressed Natural Gas (CNG)",13,"Light Duty","Automobiles (Midsize)",Nondedicated

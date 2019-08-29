@@ -1,0 +1,150 @@
+Year,"Fuel Type","Number of Vehicles","Weight Class","Vehicle Type","Engine Configuration"
+2017,"Ethanol, 85 Percent (E85)",129294,"Light Duty","Automobiles (Compact)",Nondedicated
+2017,"Ethanol, 85 Percent (E85)",89942,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2017,"Ethanol, 85 Percent (E85)",121760,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2017,"Ethanol, 85 Percent (E85)",2077,"Light Duty","Automobiles (Subcompact)",Nondedicated
+2017,"Ethanol, 85 Percent (E85)",33528,"Light Duty","Automobiles (Midsize)",Nondedicated
+2016,"Ethanol, 85 Percent (E85)",129382,"Light Duty","Automobiles (Compact)",Nondedicated
+2016,"Ethanol, 85 Percent (E85)",84847,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2016,"Ethanol, 85 Percent (E85)",156283,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2016,"Ethanol, 85 Percent (E85)",2077,"Light Duty","Automobiles (Subcompact)",Nondedicated
+2016,"Ethanol, 85 Percent (E85)",84550,"Light Duty","Automobiles (Midsize)",Nondedicated
+2015,"Ethanol, 85 Percent (E85)",169942,"Light Duty","Automobiles (Compact)",Nondedicated
+2015,"Ethanol, 85 Percent (E85)",117384,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2015,"Ethanol, 85 Percent (E85)",189098,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2015,"Ethanol, 85 Percent (E85)",2077,"Light Duty","Automobiles (Subcompact)",Nondedicated
+2015,"Ethanol, 85 Percent (E85)",203377,"Light Duty","Automobiles (Midsize)",Nondedicated
+2014,"Ethanol, 85 Percent (E85)",233042,"Light Duty","Automobiles (Compact)",Nondedicated
+2014,"Ethanol, 85 Percent (E85)",164566,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2014,"Ethanol, 85 Percent (E85)",133839,"Light Duty","Automobiles (Midsize)",Nondedicated
+2014,"Ethanol, 85 Percent (E85)",100460,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2014,"Ethanol, 85 Percent (E85)",299323,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2014,"Ethanol, 85 Percent (E85)",790048,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2014,"Ethanol, 85 Percent (E85)",565458,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2014,"Ethanol, 85 Percent (E85)",2077,"Light Duty","Automobiles (Subcompact)",Nondedicated
+2013,"Ethanol, 85 Percent (E85)",40,"Heavy Duty","Buses (Intercity Buses)",Nondedicated
+2013,"Ethanol, 85 Percent (E85)",270,"Heavy Duty","Buses (Intercity Buses)",Nondedicated
+2013,"Ethanol, 85 Percent (E85)",184,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+2013,"Ethanol, 85 Percent (E85)",220678,"Light Duty","Automobiles (Compact)",Nondedicated
+2013,"Ethanol, 85 Percent (E85)",206829,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2013,"Ethanol, 85 Percent (E85)",195841,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2013,"Ethanol, 85 Percent (E85)",2077,"Light Duty","Automobiles (Subcompact)",Nondedicated
+2013,"Ethanol, 85 Percent (E85)",253222,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2013,"Ethanol, 85 Percent (E85)",422317,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2013,"Ethanol, 85 Percent (E85)",1030291,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2013,"Ethanol, 85 Percent (E85)",171715,"Light Duty","Automobiles (Midsize)",Nondedicated
+2012,"Ethanol, 85 Percent (E85)",40,"Heavy Duty","Buses (Intercity Buses)",Nondedicated
+2012,"Ethanol, 85 Percent (E85)",270,"Heavy Duty","Buses (Intercity Buses)",Nondedicated
+2012,"Ethanol, 85 Percent (E85)",184,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+2012,"Ethanol, 85 Percent (E85)",195681,"Light Duty","Automobiles (Compact)",Nondedicated
+2012,"Ethanol, 85 Percent (E85)",174059,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2012,"Ethanol, 85 Percent (E85)",142364,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2012,"Ethanol, 85 Percent (E85)",3140,"Light Duty","Automobiles (Subcompact)",Nondedicated
+2012,"Ethanol, 85 Percent (E85)",274168,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2012,"Ethanol, 85 Percent (E85)",696365,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2012,"Ethanol, 85 Percent (E85)",735029,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2012,"Ethanol, 85 Percent (E85)",147270,"Light Duty","Automobiles (Midsize)",Nondedicated
+2011,"Ethanol, 85 Percent (E85)",273,"Heavy Duty","Buses (Intercity Buses)",Nondedicated
+2011,"Ethanol, 85 Percent (E85)",184,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+2011,"Ethanol, 85 Percent (E85)",23777,"Light Duty","Automobiles (Compact)",Nondedicated
+2011,"Ethanol, 85 Percent (E85)",162324,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2011,"Ethanol, 85 Percent (E85)",163638,"Light Duty","Automobiles (Midsize)",Nondedicated
+2011,"Ethanol, 85 Percent (E85)",40,"Heavy Duty","Buses (Intercity Buses)",Nondedicated
+2011,"Ethanol, 85 Percent (E85)",633990,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2011,"Ethanol, 85 Percent (E85)",714548,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2011,"Ethanol, 85 Percent (E85)",6322,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+2011,"Ethanol, 85 Percent (E85)",154321,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2011,"Ethanol, 85 Percent (E85)",231478,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2010,"Ethanol, 85 Percent (E85)",184,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+2010,"Ethanol, 85 Percent (E85)",23416,"Light Duty","Automobiles (Compact)",Nondedicated
+2010,"Ethanol, 85 Percent (E85)",196753,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2010,"Ethanol, 85 Percent (E85)",71630,"Light Duty","Automobiles (Midsize)",Nondedicated
+2010,"Ethanol, 85 Percent (E85)",92311,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2010,"Ethanol, 85 Percent (E85)",540909,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2010,"Ethanol, 85 Percent (E85)",455071,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2010,"Ethanol, 85 Percent (E85)",277,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+2010,"Ethanol, 85 Percent (E85)",6526,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+2010,"Ethanol, 85 Percent (E85)",97868,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2009,"Ethanol, 85 Percent (E85)",1,"Light Duty","Automobiles (Midsize)",Nondedicated
+2009,"Ethanol, 85 Percent (E85)",1,"Light Duty","Automobiles (Subcompact)",Nondedicated
+2009,"Ethanol, 85 Percent (E85)",1,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2009,"Ethanol, 85 Percent (E85)",102,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+2009,"Ethanol, 85 Percent (E85)",64536,"Light Duty","Automobiles (Compact)",Nondedicated
+2009,"Ethanol, 85 Percent (E85)",126323,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2009,"Ethanol, 85 Percent (E85)",35384,"Light Duty","Automobiles (Midsize)",Nondedicated
+2009,"Ethanol, 85 Percent (E85)",49306,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2009,"Ethanol, 85 Percent (E85)",299867,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2009,"Ethanol, 85 Percent (E85)",213352,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2009,"Ethanol, 85 Percent (E85)",267,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+2009,"Ethanol, 85 Percent (E85)",4213,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+2009,"Ethanol, 85 Percent (E85)",12424,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2008,"Ethanol, 85 Percent (E85)",1,"Light Duty","Automobiles (Midsize)",Nondedicated
+2008,"Ethanol, 85 Percent (E85)",1,"Light Duty","Automobiles (Subcompact)",Nondedicated
+2008,"Ethanol, 85 Percent (E85)",1,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2008,"Ethanol, 85 Percent (E85)",37576,"Light Duty","Automobiles (Compact)",Nondedicated
+2008,"Ethanol, 85 Percent (E85)",327252,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2008,"Ethanol, 85 Percent (E85)",13131,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2008,"Ethanol, 85 Percent (E85)",152776,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2008,"Ethanol, 85 Percent (E85)",369000,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2008,"Ethanol, 85 Percent (E85)",231634,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2008,"Ethanol, 85 Percent (E85)",8304,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+2008,"Ethanol, 85 Percent (E85)",35669,"Light Duty","Automobiles (Midsize)",Nondedicated
+2007,"Ethanol, 85 Percent (E85)",1,"Light Duty","Automobiles (Midsize)",Nondedicated
+2007,"Ethanol, 85 Percent (E85)",1,"Light Duty","Automobiles (Subcompact)",Nondedicated
+2007,"Ethanol, 85 Percent (E85)",1,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2007,"Ethanol, 85 Percent (E85)",73449,"Light Duty","Automobiles (Compact)",Nondedicated
+2007,"Ethanol, 85 Percent (E85)",6492,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+2007,"Ethanol, 85 Percent (E85)",6369,"Light Duty","Automobiles (Midsize)",Nondedicated
+2007,"Ethanol, 85 Percent (E85)",37385,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2007,"Ethanol, 85 Percent (E85)",238953,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2007,"Ethanol, 85 Percent (E85)",285121,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2007,"Ethanol, 85 Percent (E85)",284076,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2006,"Ethanol, 85 Percent (E85)",11,"Light Duty","Automobiles (Midsize)",Nondedicated
+2006,"Ethanol, 85 Percent (E85)",4,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2006,"Ethanol, 85 Percent (E85)",1,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2006,"Ethanol, 85 Percent (E85)",40626,"Light Duty","Automobiles (Compact)",Nondedicated
+2006,"Ethanol, 85 Percent (E85)",1170,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+2006,"Ethanol, 85 Percent (E85)",23253,"Light Duty","Automobiles (Midsize)",Nondedicated
+2006,"Ethanol, 85 Percent (E85)",11271,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2006,"Ethanol, 85 Percent (E85)",264124,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2006,"Ethanol, 85 Percent (E85)",302230,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2006,"Ethanol, 85 Percent (E85)",251706,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2005,"Ethanol, 85 Percent (E85)",11,"Light Duty","Automobiles (Midsize)",Nondedicated
+2005,"Ethanol, 85 Percent (E85)",4,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2005,"Ethanol, 85 Percent (E85)",1,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2005,"Ethanol, 85 Percent (E85)",19283,"Light Duty","Automobiles (Compact)",Nondedicated
+2005,"Ethanol, 85 Percent (E85)",287399,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2005,"Ethanol, 85 Percent (E85)",36514,"Light Duty","Automobiles (Midsize)",Nondedicated
+2005,"Ethanol, 85 Percent (E85)",7995,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2005,"Ethanol, 85 Percent (E85)",268678,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2005,"Ethanol, 85 Percent (E85)",115808,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2004,"Ethanol, 85 Percent (E85)",2,"Light Duty","Automobiles (Midsize)",Nondedicated
+2004,"Ethanol, 85 Percent (E85)",1,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2004,"Ethanol, 85 Percent (E85)",1,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2004,"Ethanol, 85 Percent (E85)",456799,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2004,"Ethanol, 85 Percent (E85)",109789,"Light Duty","Automobiles (Midsize)",Nondedicated
+2004,"Ethanol, 85 Percent (E85)",5360,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2004,"Ethanol, 85 Percent (E85)",55719,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2004,"Ethanol, 85 Percent (E85)",47007,"Light Duty","Automobiles (Compact)",Nondedicated
+2003,"Ethanol, 85 Percent (E85)",2,"Light Duty","Automobiles (Midsize)",Nondedicated
+2003,"Ethanol, 85 Percent (E85)",6,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2003,"Ethanol, 85 Percent (E85)",1,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2003,"Ethanol, 85 Percent (E85)",651065,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2003,"Ethanol, 85 Percent (E85)",55907,"Light Duty","Automobiles (Midsize)",Nondedicated
+2003,"Ethanol, 85 Percent (E85)",107101,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2003,"Ethanol, 85 Percent (E85)",26105,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2003,"Ethanol, 85 Percent (E85)",19074,"Light Duty","Automobiles (Compact)",Nondedicated
+2002,"Ethanol, 85 Percent (E85)",29389,"Light Duty","Automobiles (Compact)",Nondedicated
+2002,"Ethanol, 85 Percent (E85)",89962,"Light Duty","Automobiles (Midsize)",Nondedicated
+2002,"Ethanol, 85 Percent (E85)",376858,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2002,"Ethanol, 85 Percent (E85)",77697,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2002,"Ethanol, 85 Percent (E85)",261070,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2001,"Ethanol, 85 Percent (E85)",61534,"Light Duty","Automobiles (Midsize)",Nondedicated
+2001,"Ethanol, 85 Percent (E85)",157410,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2001,"Ethanol, 85 Percent (E85)",93238,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2001,"Ethanol, 85 Percent (E85)",269592,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2000,"Ethanol, 85 Percent (E85)",112820,"Light Duty","Automobiles (Midsize)",Nondedicated
+2000,"Ethanol, 85 Percent (E85)",175553,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2000,"Ethanol, 85 Percent (E85)",13214,"Medium Duty","Other Trucks",Nondedicated
+2000,"Ethanol, 85 Percent (E85)",206,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+2000,"Ethanol, 85 Percent (E85)",299039,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
