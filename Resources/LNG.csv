@@ -1,0 +1,76 @@
+Year,"Fuel Type","Number of Vehicles","Weight Class","Vehicle Type","Engine Configuration"
+2015,"Liquefied Natural Gas (LNG)",7,"Heavy Duty","Other Trucks",Dedicated
+2014,"Liquefied Natural Gas (LNG)",535,"Heavy Duty","Other Trucks",Dedicated
+2013,"Liquefied Natural Gas (LNG)",344,"Heavy Duty","Other Trucks",Dedicated
+2012,"Liquefied Natural Gas (LNG)",101,"Heavy Duty","Other Trucks",Dedicated
+2011,"Liquefied Natural Gas (LNG)",137,"Heavy Duty","Other Trucks",Dedicated
+2010,"Liquefied Natural Gas (LNG)",231,"Heavy Duty","Other Trucks",Dedicated
+2009,"Liquefied Natural Gas (LNG)",125,"Heavy Duty","Other Trucks",Dedicated
+2009,"Liquefied Natural Gas (LNG)",1,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2008,"Liquefied Natural Gas (LNG)",364,"Heavy Duty","Other Trucks",Dedicated
+2008,"Liquefied Natural Gas (LNG)",20,"Light Duty","Other Vehicles",Dedicated
+2007,"Liquefied Natural Gas (LNG)",5,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2007,"Liquefied Natural Gas (LNG)",6,"Heavy Duty","Other Trucks",Dedicated
+2007,"Liquefied Natural Gas (LNG)",15,"Heavy Duty","Other Trucks",Dedicated
+2006,"Liquefied Natural Gas (LNG)",8,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2006,"Liquefied Natural Gas (LNG)",2,"Heavy Duty","Other Trucks",Dedicated
+2006,"Liquefied Natural Gas (LNG)",82,"Heavy Duty","Other Trucks",Dedicated
+2005,"Liquefied Natural Gas (LNG)",25,"Heavy Duty","Other Trucks",Dedicated
+2005,"Liquefied Natural Gas (LNG)",43,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2004,"Liquefied Natural Gas (LNG)",39,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2004,"Liquefied Natural Gas (LNG)",97,"Heavy Duty","Other Trucks",Dedicated
+2003,"Liquefied Natural Gas (LNG)",44,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2003,"Liquefied Natural Gas (LNG)",47,"Heavy Duty","Other Trucks",Dedicated
+2003,"Liquefied Natural Gas (LNG)",20,"Light Duty","Other Vehicles",Dedicated
+2002,"Liquefied Natural Gas (LNG)",84,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2002,"Liquefied Natural Gas (LNG)",16,"Heavy Duty","Other Trucks",Dedicated
+2002,"Liquefied Natural Gas (LNG)",47,"Heavy Duty","Other Trucks",Dedicated
+2001,"Liquefied Natural Gas (LNG)",132,"Heavy Duty","Other Trucks",Dedicated
+2001,"Liquefied Natural Gas (LNG)",245,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2001,"Liquefied Natural Gas (LNG)",16,"Heavy Duty","Other Trucks",Dedicated
+2000,"Liquefied Natural Gas (LNG)",60,"Heavy Duty","Other Trucks",Dedicated
+2000,"Liquefied Natural Gas (LNG)",343,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2000,"Liquefied Natural Gas (LNG)",8,"Heavy Duty","Other Trucks",Dedicated
+1999,"Liquefied Natural Gas (LNG)",37,"Heavy Duty","Buses (Transit Buses)",Dedicated
+1999,"Liquefied Natural Gas (LNG)",2,"Heavy Duty","Other Trucks",Nondedicated
+1999,"Liquefied Natural Gas (LNG)",1,"Heavy Duty","Other Trucks",Nondedicated
+1998,"Liquefied Natural Gas (LNG)",2,"Heavy Duty","Other Trucks",Dedicated
+1998,"Liquefied Natural Gas (LNG)",378,"Heavy Duty","Buses (Transit Buses)",Dedicated
+1997,"Liquefied Natural Gas (LNG)",2,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1997,"Liquefied Natural Gas (LNG)",12,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1997,"Liquefied Natural Gas (LNG)",2,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+1997,"Liquefied Natural Gas (LNG)",3,"Heavy Duty","Other Trucks",Nondedicated
+1997,"Liquefied Natural Gas (LNG)",3,"Heavy Duty","Other Trucks",Dedicated
+1997,"Liquefied Natural Gas (LNG)",6,"Heavy Duty","Buses (Intercity Buses)",Dedicated
+1997,"Liquefied Natural Gas (LNG)",1,"Medium Duty","Other Trucks",Nondedicated
+1997,"Liquefied Natural Gas (LNG)",17,"Heavy Duty","Buses (Transit Buses)",Dedicated
+1997,"Liquefied Natural Gas (LNG)",4,"Heavy Duty","Other Trucks",Dedicated
+1996,"Liquefied Natural Gas (LNG)",3,"Heavy Duty","Other Trucks",Dedicated
+1996,"Liquefied Natural Gas (LNG)",7,"Heavy Duty","Buses (Intercity Buses)",Dedicated
+1996,"Liquefied Natural Gas (LNG)",15,"Medium Duty","Other Trucks",Nondedicated
+1996,"Liquefied Natural Gas (LNG)",18,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1996,"Liquefied Natural Gas (LNG)",3,"Heavy Duty","Other Trucks",Nondedicated
+1996,"Liquefied Natural Gas (LNG)",3,"Heavy Duty","Other Trucks",Dedicated
+1996,"Liquefied Natural Gas (LNG)",5,"Heavy Duty","Buses (Intercity Buses)",Dedicated
+1996,"Liquefied Natural Gas (LNG)",20,"Medium Duty","Other Trucks",Dedicated
+1995,"Liquefied Natural Gas (LNG)",30,"Medium Duty","Other Trucks",Nondedicated
+1995,"Liquefied Natural Gas (LNG)",2,"Medium Duty","Other Trucks",Dedicated
+1995,"Liquefied Natural Gas (LNG)",2,"Heavy Duty","Buses (Transit Buses)",Dedicated
+1995,"Liquefied Natural Gas (LNG)",4,"Heavy Duty","Other Trucks",Dedicated
+1995,"Liquefied Natural Gas (LNG)",22,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+1995,"Liquefied Natural Gas (LNG)",1,"Heavy Duty","Other Trucks",Nondedicated
+1995,"Liquefied Natural Gas (LNG)",2,"Heavy Duty","Other Trucks",Dedicated
+1995,"Liquefied Natural Gas (LNG)",1,"Heavy Duty","Other Trucks",Nondedicated
+1995,"Liquefied Natural Gas (LNG)",17,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1995,"Liquefied Natural Gas (LNG)",4,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+1994,"Liquefied Natural Gas (LNG)",3,"Heavy Duty","Other Trucks",Dedicated
+1994,"Liquefied Natural Gas (LNG)",3,"Heavy Duty","Other Trucks",Nondedicated
+1994,"Liquefied Natural Gas (LNG)",1,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1994,"Liquefied Natural Gas (LNG)",2,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Dedicated
+1994,"Liquefied Natural Gas (LNG)",4,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1994,"Liquefied Natural Gas (LNG)",35,"Medium Duty","Other Trucks",Dedicated
+1994,"Liquefied Natural Gas (LNG)",30,"Medium Duty","Other Trucks",Dedicated
+1994,"Liquefied Natural Gas (LNG)",3,"Medium Duty","Other Trucks",Nondedicated
+1994,"Liquefied Natural Gas (LNG)",14,"Heavy Duty","Buses (Transit Buses)",Dedicated
+1994,"Liquefied Natural Gas (LNG)",1,"Light Duty","Automobiles (Compact)",Nondedicated
+1994,"Liquefied Natural Gas (LNG)",1,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated

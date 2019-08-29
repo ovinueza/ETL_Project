@@ -1,0 +1,602 @@
+Year,"Fuel Type","Number of Vehicles","Weight Class","Vehicle Type","Engine Configuration"
+2017,"Liquefied Petroleum Gas (LPG)",1,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10,000 lbs)",Dedicated
+2017,"Liquefied Petroleum Gas (LPG)",4,"Medium Duty","Pickup Trucks",Dedicated
+2017,"Liquefied Petroleum Gas (LPG)",20,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2017,"Liquefied Petroleum Gas (LPG)",143,"Heavy Duty","Other Trucks",Dedicated
+2017,"Liquefied Petroleum Gas (LPG)",4,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+2017,"Liquefied Petroleum Gas (LPG)",1,"Heavy Duty","Other Trucks",Nondedicated
+2017,"Liquefied Petroleum Gas (LPG)",200,"Heavy Duty","Buses (School Buses)",Dedicated
+2017,"Liquefied Petroleum Gas (LPG)",14,"Heavy Duty","Other Trucks",Dedicated
+2017,"Liquefied Petroleum Gas (LPG)",27,"Light Duty","Pickup Trucks (Pickups < 8,500 lbs)",Nondedicated
+2017,"Liquefied Petroleum Gas (LPG)",5,"Light Duty","Other Trucks (Trucks < 8,500 lbs)",Nondedicated
+2017,"Liquefied Petroleum Gas (LPG)",6,"Light Duty","Pickup Trucks (Pickups < 8,500 lbs)",Dedicated
+2017,"Liquefied Petroleum Gas (LPG)",12,"Medium Duty","Pickup Trucks",Nondedicated
+2017,"Liquefied Petroleum Gas (LPG)",6,"Medium Duty","Other Trucks",Nondedicated
+2017,"Liquefied Petroleum Gas (LPG)",4,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10,000 lbs)",Nondedicated
+2017,"Liquefied Petroleum Gas (LPG)",2008,"Heavy Duty","Buses (School Buses)",Dedicated
+2016,"Liquefied Petroleum Gas (LPG)",17,"Medium Duty","Pickup Trucks",Nondedicated
+2016,"Liquefied Petroleum Gas (LPG)",10,"Light Duty","Pickup Trucks (Pickups < 8,500 lbs)",Dedicated
+2016,"Liquefied Petroleum Gas (LPG)",52,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10,000 lbs)",Nondedicated
+2016,"Liquefied Petroleum Gas (LPG)",4,"Medium Duty","Pickup Trucks",Dedicated
+2016,"Liquefied Petroleum Gas (LPG)",5,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10,000 lbs)",Dedicated
+2016,"Liquefied Petroleum Gas (LPG)",1968,"Heavy Duty","Buses (School Buses)",Dedicated
+2016,"Liquefied Petroleum Gas (LPG)",36,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2016,"Liquefied Petroleum Gas (LPG)",310,"Heavy Duty","Other Trucks",Dedicated
+2016,"Liquefied Petroleum Gas (LPG)",3,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+2016,"Liquefied Petroleum Gas (LPG)",17,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+2016,"Liquefied Petroleum Gas (LPG)",1,"Heavy Duty","Other Trucks",Nondedicated
+2016,"Liquefied Petroleum Gas (LPG)",14,"Heavy Duty","Other Trucks",Dedicated
+2016,"Liquefied Petroleum Gas (LPG)",19,"Light Duty","Pickup Trucks (Pickups < 8,500 lbs)",Nondedicated
+2016,"Liquefied Petroleum Gas (LPG)",1,"Light Duty","Other Trucks (SUVs < 8,500 lbs)",Nondedicated
+2016,"Liquefied Petroleum Gas (LPG)",8,"Light Duty","Other Trucks (Trucks < 8,500 lbs)",Nondedicated
+2016,"Liquefied Petroleum Gas (LPG)",5,"Medium Duty","Other Trucks",Nondedicated
+2015,"Liquefied Petroleum Gas (LPG)",6,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+2015,"Liquefied Petroleum Gas (LPG)",132,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10,000 lbs)",Dedicated
+2015,"Liquefied Petroleum Gas (LPG)",5,"Heavy Duty","Other Trucks",Nondedicated
+2015,"Liquefied Petroleum Gas (LPG)",8,"Heavy Duty","Buses (School Buses)",Dedicated
+2015,"Liquefied Petroleum Gas (LPG)",14,"Heavy Duty","Other Trucks",Dedicated
+2015,"Liquefied Petroleum Gas (LPG)",13,"Light Duty","Pickup Trucks (Pickups < 8,500 lbs)",Nondedicated
+2015,"Liquefied Petroleum Gas (LPG)",1,"Light Duty","Other Trucks (SUVs < 8,500 lbs)",Nondedicated
+2015,"Liquefied Petroleum Gas (LPG)",8,"Light Duty","Other Trucks (Trucks < 8,500 lbs)",Nondedicated
+2015,"Liquefied Petroleum Gas (LPG)",150,"Light Duty","Automobiles (Fullsize)",Dedicated
+2015,"Liquefied Petroleum Gas (LPG)",31,"Medium Duty","Pickup Trucks",Nondedicated
+2015,"Liquefied Petroleum Gas (LPG)",6,"Medium Duty","Other Trucks",Nondedicated
+2015,"Liquefied Petroleum Gas (LPG)",48,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10,000 lbs)",Nondedicated
+2015,"Liquefied Petroleum Gas (LPG)",4,"Medium Duty","Pickup Trucks",Dedicated
+2015,"Liquefied Petroleum Gas (LPG)",2,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10,000 lbs)",Dedicated
+2015,"Liquefied Petroleum Gas (LPG)",1793,"Heavy Duty","Buses (School Buses)",Dedicated
+2015,"Liquefied Petroleum Gas (LPG)",16,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2015,"Liquefied Petroleum Gas (LPG)",11,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+2014,"Liquefied Petroleum Gas (LPG)",30,"Medium Duty","Pickup Trucks",Nondedicated
+2014,"Liquefied Petroleum Gas (LPG)",8,"Medium Duty","Other Trucks",Nondedicated
+2014,"Liquefied Petroleum Gas (LPG)",10,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2014,"Liquefied Petroleum Gas (LPG)",2,"Medium Duty","Other Trucks",Dedicated
+2014,"Liquefied Petroleum Gas (LPG)",1444,"Heavy Duty","Buses (School Buses)",Dedicated
+2014,"Liquefied Petroleum Gas (LPG)",150,"Light Duty","Automobiles (Fullsize)",Dedicated
+2014,"Liquefied Petroleum Gas (LPG)",2,"Heavy Duty","Other Trucks",Nondedicated
+2014,"Liquefied Petroleum Gas (LPG)",8,"Heavy Duty","Buses (School Buses)",Dedicated
+2014,"Liquefied Petroleum Gas (LPG)",3,"Heavy Duty","Other Trucks",Dedicated
+2014,"Liquefied Petroleum Gas (LPG)",31,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2014,"Liquefied Petroleum Gas (LPG)",1,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2014,"Liquefied Petroleum Gas (LPG)",19,"Heavy Duty","Other Trucks",Dedicated
+2013,"Liquefied Petroleum Gas (LPG)",5,"Heavy Duty","Buses (Intercity Buses)",Dedicated
+2013,"Liquefied Petroleum Gas (LPG)",65,"Heavy Duty","Buses (Intercity Buses)",Nondedicated
+2013,"Liquefied Petroleum Gas (LPG)",1,"Light Duty","Automobiles (Midsize)",Nondedicated
+2013,"Liquefied Petroleum Gas (LPG)",140,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2013,"Liquefied Petroleum Gas (LPG)",5,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2013,"Liquefied Petroleum Gas (LPG)",40,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+2013,"Liquefied Petroleum Gas (LPG)",300,"Light Duty","Automobiles (Fullsize)",Dedicated
+2013,"Liquefied Petroleum Gas (LPG)",108,"Medium Duty","Pickup Trucks",Nondedicated
+2013,"Liquefied Petroleum Gas (LPG)",8,"Medium Duty","Other Trucks",Nondedicated
+2013,"Liquefied Petroleum Gas (LPG)",38,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2013,"Liquefied Petroleum Gas (LPG)",1,"Medium Duty","Pickup Trucks",Dedicated
+2013,"Liquefied Petroleum Gas (LPG)",1953,"Heavy Duty","Buses (School Buses)",Dedicated
+2013,"Liquefied Petroleum Gas (LPG)",9,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2013,"Liquefied Petroleum Gas (LPG)",19,"Heavy Duty","Other Trucks",Dedicated
+2013,"Liquefied Petroleum Gas (LPG)",8,"Heavy Duty","Buses (School Buses)",Dedicated
+2012,"Liquefied Petroleum Gas (LPG)",65,"Heavy Duty","Buses (Intercity Buses)",Nondedicated
+2012,"Liquefied Petroleum Gas (LPG)",9,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2012,"Liquefied Petroleum Gas (LPG)",2,"Heavy Duty","Other Trucks",Nondedicated
+2012,"Liquefied Petroleum Gas (LPG)",5,"Heavy Duty","Buses (Intercity Buses)",Dedicated
+2012,"Liquefied Petroleum Gas (LPG)",33,"Heavy Duty","Buses (School Buses)",Dedicated
+2012,"Liquefied Petroleum Gas (LPG)",105,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2012,"Liquefied Petroleum Gas (LPG)",7,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2012,"Liquefied Petroleum Gas (LPG)",40,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+2012,"Liquefied Petroleum Gas (LPG)",150,"Light Duty","Automobiles (Fullsize)",Dedicated
+2012,"Liquefied Petroleum Gas (LPG)",70,"Medium Duty","Pickup Trucks",Nondedicated
+2012,"Liquefied Petroleum Gas (LPG)",4,"Medium Duty","Other Trucks",Nondedicated
+2012,"Liquefied Petroleum Gas (LPG)",48,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2012,"Liquefied Petroleum Gas (LPG)",1,"Medium Duty","Pickup Trucks",Dedicated
+2012,"Liquefied Petroleum Gas (LPG)",590,"Heavy Duty","Buses (School Buses)",Dedicated
+2012,"Liquefied Petroleum Gas (LPG)",5,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+2011,"Liquefied Petroleum Gas (LPG)",65,"Heavy Duty","Buses (Intercity Buses)",Nondedicated
+2011,"Liquefied Petroleum Gas (LPG)",9,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2011,"Liquefied Petroleum Gas (LPG)",5,"Heavy Duty","Buses (Intercity Buses)",Dedicated
+2011,"Liquefied Petroleum Gas (LPG)",33,"Heavy Duty","Buses (School Buses)",Dedicated
+2011,"Liquefied Petroleum Gas (LPG)",9,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2011,"Liquefied Petroleum Gas (LPG)",12,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2011,"Liquefied Petroleum Gas (LPG)",126,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2011,"Liquefied Petroleum Gas (LPG)",6,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2011,"Liquefied Petroleum Gas (LPG)",40,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+2011,"Liquefied Petroleum Gas (LPG)",2,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+2011,"Liquefied Petroleum Gas (LPG)",150,"Light Duty","Automobiles (Fullsize)",Dedicated
+2011,"Liquefied Petroleum Gas (LPG)",59,"Medium Duty","Pickup Trucks",Nondedicated
+2011,"Liquefied Petroleum Gas (LPG)",40,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2011,"Liquefied Petroleum Gas (LPG)",1,"Medium Duty","Pickup Trucks",Dedicated
+2011,"Liquefied Petroleum Gas (LPG)",496,"Heavy Duty","Buses (School Buses)",Dedicated
+2011,"Liquefied Petroleum Gas (LPG)",1,"Heavy Duty","Other Trucks",Nondedicated
+2010,"Liquefied Petroleum Gas (LPG)",3,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2010,"Liquefied Petroleum Gas (LPG)",90,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2010,"Liquefied Petroleum Gas (LPG)",17,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2010,"Liquefied Petroleum Gas (LPG)",36,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+2010,"Liquefied Petroleum Gas (LPG)",367,"Heavy Duty","Buses (School Buses)",Dedicated
+2010,"Liquefied Petroleum Gas (LPG)",86,"Medium Duty","Pickup Trucks",Nondedicated
+2010,"Liquefied Petroleum Gas (LPG)",1,"Medium Duty","Other Trucks",Nondedicated
+2010,"Liquefied Petroleum Gas (LPG)",1,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2010,"Liquefied Petroleum Gas (LPG)",1,"Medium Duty","Pickup Trucks",Dedicated
+2010,"Liquefied Petroleum Gas (LPG)",145,"Light Duty","Automobiles (Fullsize)",Dedicated
+2009,"Liquefied Petroleum Gas (LPG)",1,"Heavy Duty","Buses (School Buses)",Nondedicated
+2009,"Liquefied Petroleum Gas (LPG)",20,"Heavy Duty","Other Trucks",Dedicated
+2009,"Liquefied Petroleum Gas (LPG)",10,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2009,"Liquefied Petroleum Gas (LPG)",11,"Light Duty","Automobiles (Midsize)",Nondedicated
+2009,"Liquefied Petroleum Gas (LPG)",90,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2009,"Liquefied Petroleum Gas (LPG)",22,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2009,"Liquefied Petroleum Gas (LPG)",13,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2009,"Liquefied Petroleum Gas (LPG)",36,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+2009,"Liquefied Petroleum Gas (LPG)",2,"Light Duty","Automobiles (Fullsize)",Dedicated
+2009,"Liquefied Petroleum Gas (LPG)",97,"Medium Duty","Pickup Trucks",Nondedicated
+2009,"Liquefied Petroleum Gas (LPG)",13,"Medium Duty","Other Trucks",Nondedicated
+2009,"Liquefied Petroleum Gas (LPG)",2,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2009,"Liquefied Petroleum Gas (LPG)",1,"Medium Duty","Pickup Trucks",Dedicated
+2009,"Liquefied Petroleum Gas (LPG)",4,"Medium Duty","Other Trucks",Dedicated
+2009,"Liquefied Petroleum Gas (LPG)",506,"Heavy Duty","Buses (School Buses)",Dedicated
+2009,"Liquefied Petroleum Gas (LPG)",32,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2009,"Liquefied Petroleum Gas (LPG)",1,"Heavy Duty","Other Trucks",Nondedicated
+2008,"Liquefied Petroleum Gas (LPG)",2,"Heavy Duty","Other Trucks",Nondedicated
+2008,"Liquefied Petroleum Gas (LPG)",19,"Heavy Duty","Other Trucks",Dedicated
+2008,"Liquefied Petroleum Gas (LPG)",2,"Heavy Duty","Other Trucks",Dedicated
+2008,"Liquefied Petroleum Gas (LPG)",10,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2008,"Liquefied Petroleum Gas (LPG)",25,"Light Duty","Automobiles (Midsize)",Nondedicated
+2008,"Liquefied Petroleum Gas (LPG)",192,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2008,"Liquefied Petroleum Gas (LPG)",28,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2008,"Liquefied Petroleum Gas (LPG)",3,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+2008,"Liquefied Petroleum Gas (LPG)",1,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+2008,"Liquefied Petroleum Gas (LPG)",150,"Light Duty","Automobiles (Fullsize)",Dedicated
+2008,"Liquefied Petroleum Gas (LPG)",21,"Medium Duty","Pickup Trucks",Nondedicated
+2008,"Liquefied Petroleum Gas (LPG)",34,"Medium Duty","Other Trucks",Nondedicated
+2008,"Liquefied Petroleum Gas (LPG)",3,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2008,"Liquefied Petroleum Gas (LPG)",168,"Heavy Duty","Buses (School Buses)",Dedicated
+2008,"Liquefied Petroleum Gas (LPG)",34,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2008,"Liquefied Petroleum Gas (LPG)",3,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2007,"Liquefied Petroleum Gas (LPG)",4,"Heavy Duty","Other Trucks",Nondedicated
+2007,"Liquefied Petroleum Gas (LPG)",7,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2007,"Liquefied Petroleum Gas (LPG)",14,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2007,"Liquefied Petroleum Gas (LPG)",31,"Light Duty","Automobiles (Midsize)",Nondedicated
+2007,"Liquefied Petroleum Gas (LPG)",15,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2007,"Liquefied Petroleum Gas (LPG)",41,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2007,"Liquefied Petroleum Gas (LPG)",8,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2007,"Liquefied Petroleum Gas (LPG)",9,"Light Duty","Other Vehicles",Dedicated
+2007,"Liquefied Petroleum Gas (LPG)",54,"Medium Duty","Pickup Trucks",Nondedicated
+2007,"Liquefied Petroleum Gas (LPG)",17,"Medium Duty","Other Trucks",Nondedicated
+2007,"Liquefied Petroleum Gas (LPG)",1,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2007,"Liquefied Petroleum Gas (LPG)",3,"Medium Duty","Other Trucks",Dedicated
+2007,"Liquefied Petroleum Gas (LPG)",2,"Heavy Duty","Buses (School Buses)",Dedicated
+2007,"Liquefied Petroleum Gas (LPG)",150,"Light Duty","Automobiles (Fullsize)",Dedicated
+2006,"Liquefied Petroleum Gas (LPG)",8,"Heavy Duty","Other Trucks",Nondedicated
+2006,"Liquefied Petroleum Gas (LPG)",5,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2006,"Liquefied Petroleum Gas (LPG)",31,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2006,"Liquefied Petroleum Gas (LPG)",14,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2006,"Liquefied Petroleum Gas (LPG)",24,"Light Duty","Automobiles (Midsize)",Nondedicated
+2006,"Liquefied Petroleum Gas (LPG)",5,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2006,"Liquefied Petroleum Gas (LPG)",63,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2006,"Liquefied Petroleum Gas (LPG)",126,"Light Duty","Automobiles (Fullsize)",Dedicated
+2006,"Liquefied Petroleum Gas (LPG)",9,"Light Duty","Other Vehicles",Dedicated
+2006,"Liquefied Petroleum Gas (LPG)",2,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+2006,"Liquefied Petroleum Gas (LPG)",52,"Medium Duty","Pickup Trucks",Nondedicated
+2006,"Liquefied Petroleum Gas (LPG)",27,"Medium Duty","Other Trucks",Nondedicated
+2006,"Liquefied Petroleum Gas (LPG)",3,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2006,"Liquefied Petroleum Gas (LPG)",3,"Medium Duty","Other Trucks",Dedicated
+2006,"Liquefied Petroleum Gas (LPG)",63,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2006,"Liquefied Petroleum Gas (LPG)",38,"Heavy Duty","Buses (School Buses)",Dedicated
+2005,"Liquefied Petroleum Gas (LPG)",1,"Light Duty","Other Vehicles",Dedicated
+2005,"Liquefied Petroleum Gas (LPG)",22,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2005,"Liquefied Petroleum Gas (LPG)",38,"Heavy Duty","Buses (School Buses)",Dedicated
+2005,"Liquefied Petroleum Gas (LPG)",37,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2005,"Liquefied Petroleum Gas (LPG)",1,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2005,"Liquefied Petroleum Gas (LPG)",110,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2005,"Liquefied Petroleum Gas (LPG)",79,"Light Duty","Automobiles (Midsize)",Nondedicated
+2005,"Liquefied Petroleum Gas (LPG)",12,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2005,"Liquefied Petroleum Gas (LPG)",108,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2005,"Liquefied Petroleum Gas (LPG)",126,"Light Duty","Automobiles (Fullsize)",Dedicated
+2005,"Liquefied Petroleum Gas (LPG)",2,"Light Duty","Vans (Small Passenger Vans)",Dedicated
+2005,"Liquefied Petroleum Gas (LPG)",1,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+2005,"Liquefied Petroleum Gas (LPG)",68,"Medium Duty","Pickup Trucks",Nondedicated
+2005,"Liquefied Petroleum Gas (LPG)",55,"Medium Duty","Other Trucks",Nondedicated
+2005,"Liquefied Petroleum Gas (LPG)",23,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2005,"Liquefied Petroleum Gas (LPG)",5,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+2005,"Liquefied Petroleum Gas (LPG)",8,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2005,"Liquefied Petroleum Gas (LPG)",4,"Heavy Duty","Other Trucks",Nondedicated
+2004,"Liquefied Petroleum Gas (LPG)",7,"Heavy Duty","Buses (School Buses)",Nondedicated
+2004,"Liquefied Petroleum Gas (LPG)",1090,"Medium Duty","Pickup Trucks",Nondedicated
+2004,"Liquefied Petroleum Gas (LPG)",27,"Heavy Duty","Other Trucks",Nondedicated
+2004,"Liquefied Petroleum Gas (LPG)",69,"Heavy Duty","Buses (School Buses)",Dedicated
+2004,"Liquefied Petroleum Gas (LPG)",33,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2004,"Liquefied Petroleum Gas (LPG)",11,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2004,"Liquefied Petroleum Gas (LPG)",94,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2004,"Liquefied Petroleum Gas (LPG)",379,"Light Duty","Automobiles (Midsize)",Nondedicated
+2004,"Liquefied Petroleum Gas (LPG)",10,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2004,"Liquefied Petroleum Gas (LPG)",5,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2004,"Liquefied Petroleum Gas (LPG)",199,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2004,"Liquefied Petroleum Gas (LPG)",1,"Light Duty","Automobiles (Midsize)",Dedicated
+2004,"Liquefied Petroleum Gas (LPG)",3,"Light Duty","Vans (Small Passenger Vans)",Dedicated
+2004,"Liquefied Petroleum Gas (LPG)",15,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+2004,"Liquefied Petroleum Gas (LPG)",1,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Dedicated
+2004,"Liquefied Petroleum Gas (LPG)",51,"Medium Duty","Pickup Trucks",Nondedicated
+2004,"Liquefied Petroleum Gas (LPG)",109,"Medium Duty","Other Trucks",Nondedicated
+2004,"Liquefied Petroleum Gas (LPG)",11,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2004,"Liquefied Petroleum Gas (LPG)",6,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+2004,"Liquefied Petroleum Gas (LPG)",3,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2004,"Liquefied Petroleum Gas (LPG)",20,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2004,"Liquefied Petroleum Gas (LPG)",2,"Light Duty","Other Vehicles",Dedicated
+2004,"Liquefied Petroleum Gas (LPG)",4,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+2003,"Liquefied Petroleum Gas (LPG)",2,"Medium Duty","Pickup Trucks",Nondedicated
+2003,"Liquefied Petroleum Gas (LPG)",1,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2003,"Liquefied Petroleum Gas (LPG)",5,"Medium Duty","Other Trucks",Dedicated
+2003,"Liquefied Petroleum Gas (LPG)",32,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+2003,"Liquefied Petroleum Gas (LPG)",132,"Medium Duty","Pickup Trucks",Nondedicated
+2003,"Liquefied Petroleum Gas (LPG)",363,"Medium Duty","Other Trucks",Nondedicated
+2003,"Liquefied Petroleum Gas (LPG)",12,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2003,"Liquefied Petroleum Gas (LPG)",70,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2003,"Liquefied Petroleum Gas (LPG)",1090,"Medium Duty","Pickup Trucks",Nondedicated
+2003,"Liquefied Petroleum Gas (LPG)",13,"Medium Duty","Other Trucks",Nondedicated
+2003,"Liquefied Petroleum Gas (LPG)",2,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2003,"Liquefied Petroleum Gas (LPG)",2,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+2003,"Liquefied Petroleum Gas (LPG)",14,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+2003,"Liquefied Petroleum Gas (LPG)",25,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2003,"Liquefied Petroleum Gas (LPG)",7,"Light Duty","Automobiles (Midsize)",Nondedicated
+2003,"Liquefied Petroleum Gas (LPG)",1,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2003,"Liquefied Petroleum Gas (LPG)",75,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2003,"Liquefied Petroleum Gas (LPG)",1,"Heavy Duty","Buses (School Buses)",Nondedicated
+2003,"Liquefied Petroleum Gas (LPG)",6,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+2003,"Liquefied Petroleum Gas (LPG)",62,"Heavy Duty","Buses (School Buses)",Dedicated
+2003,"Liquefied Petroleum Gas (LPG)",89,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2003,"Liquefied Petroleum Gas (LPG)",15,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2003,"Liquefied Petroleum Gas (LPG)",8,"Heavy Duty","Buses (School Buses)",Nondedicated
+2003,"Liquefied Petroleum Gas (LPG)",1,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+2003,"Liquefied Petroleum Gas (LPG)",29,"Heavy Duty","Other Trucks",Nondedicated
+2003,"Liquefied Petroleum Gas (LPG)",44,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2003,"Liquefied Petroleum Gas (LPG)",1,"Light Duty","Automobiles (Midsize)",Nondedicated
+2003,"Liquefied Petroleum Gas (LPG)",9,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2002,"Liquefied Petroleum Gas (LPG)",7,"Heavy Duty","Buses (School Buses)",Nondedicated
+2002,"Liquefied Petroleum Gas (LPG)",39,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+2002,"Liquefied Petroleum Gas (LPG)",62,"Heavy Duty","Buses (School Buses)",Dedicated
+2002,"Liquefied Petroleum Gas (LPG)",3,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2002,"Liquefied Petroleum Gas (LPG)",18,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2002,"Liquefied Petroleum Gas (LPG)",1,"Heavy Duty","Other Trucks",Dedicated
+2002,"Liquefied Petroleum Gas (LPG)",2,"Heavy Duty","Buses (School Buses)",Nondedicated
+2002,"Liquefied Petroleum Gas (LPG)",1,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+2002,"Liquefied Petroleum Gas (LPG)",5,"Heavy Duty","Other Trucks",Nondedicated
+2002,"Liquefied Petroleum Gas (LPG)",2,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2002,"Liquefied Petroleum Gas (LPG)",6,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2002,"Liquefied Petroleum Gas (LPG)",1,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2002,"Liquefied Petroleum Gas (LPG)",35,"Light Duty","Automobiles (Fullsize)",Dedicated
+2002,"Liquefied Petroleum Gas (LPG)",17,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+2002,"Liquefied Petroleum Gas (LPG)",1,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Dedicated
+2002,"Liquefied Petroleum Gas (LPG)",2,"Light Duty","Automobiles (Compact)",Nondedicated
+2002,"Liquefied Petroleum Gas (LPG)",22,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2002,"Liquefied Petroleum Gas (LPG)",4,"Light Duty","Automobiles (Midsize)",Nondedicated
+2002,"Liquefied Petroleum Gas (LPG)",17,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2002,"Liquefied Petroleum Gas (LPG)",10,"Medium Duty","Pickup Trucks",Nondedicated
+2002,"Liquefied Petroleum Gas (LPG)",10,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2002,"Liquefied Petroleum Gas (LPG)",2,"Medium Duty","Pickup Trucks",Dedicated
+2002,"Liquefied Petroleum Gas (LPG)",4,"Medium Duty","Other Trucks",Dedicated
+2002,"Liquefied Petroleum Gas (LPG)",14,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+2002,"Liquefied Petroleum Gas (LPG)",31,"Medium Duty","Pickup Trucks",Nondedicated
+2002,"Liquefied Petroleum Gas (LPG)",267,"Medium Duty","Other Trucks",Nondedicated
+2002,"Liquefied Petroleum Gas (LPG)",7,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2002,"Liquefied Petroleum Gas (LPG)",11,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2002,"Liquefied Petroleum Gas (LPG)",78,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2002,"Liquefied Petroleum Gas (LPG)",242,"Heavy Duty","Other Trucks",Dedicated
+2002,"Liquefied Petroleum Gas (LPG)",739,"Medium Duty","Pickup Trucks",Nondedicated
+2002,"Liquefied Petroleum Gas (LPG)",5,"Medium Duty","Other Trucks",Dedicated
+2002,"Liquefied Petroleum Gas (LPG)",2,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+2001,"Liquefied Petroleum Gas (LPG)",2,"Heavy Duty","Buses (School Buses)",Nondedicated
+2001,"Liquefied Petroleum Gas (LPG)",2,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+2001,"Liquefied Petroleum Gas (LPG)",32,"Heavy Duty","Buses (School Buses)",Dedicated
+2001,"Liquefied Petroleum Gas (LPG)",3,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2001,"Liquefied Petroleum Gas (LPG)",5,"Heavy Duty","Buses (School Buses)",Nondedicated
+2001,"Liquefied Petroleum Gas (LPG)",17,"Heavy Duty","Other Trucks",Nondedicated
+2001,"Liquefied Petroleum Gas (LPG)",33,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2001,"Liquefied Petroleum Gas (LPG)",6,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2001,"Liquefied Petroleum Gas (LPG)",9,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2001,"Liquefied Petroleum Gas (LPG)",17,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2001,"Liquefied Petroleum Gas (LPG)",35,"Light Duty","Automobiles (Fullsize)",Dedicated
+2001,"Liquefied Petroleum Gas (LPG)",20,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+2001,"Liquefied Petroleum Gas (LPG)",22,"Light Duty","Automobiles (Compact)",Nondedicated
+2001,"Liquefied Petroleum Gas (LPG)",20,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2001,"Liquefied Petroleum Gas (LPG)",7,"Light Duty","Automobiles (Midsize)",Nondedicated
+2001,"Liquefied Petroleum Gas (LPG)",15,"Light Duty","Automobiles (Subcompact)",Nondedicated
+2001,"Liquefied Petroleum Gas (LPG)",2,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2001,"Liquefied Petroleum Gas (LPG)",69,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+2001,"Liquefied Petroleum Gas (LPG)",190,"Medium Duty","Pickup Trucks",Nondedicated
+2001,"Liquefied Petroleum Gas (LPG)",15,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2001,"Liquefied Petroleum Gas (LPG)",3,"Medium Duty","Pickup Trucks",Dedicated
+2001,"Liquefied Petroleum Gas (LPG)",2,"Medium Duty","Other Trucks",Dedicated
+2001,"Liquefied Petroleum Gas (LPG)",6,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+2001,"Liquefied Petroleum Gas (LPG)",53,"Medium Duty","Pickup Trucks",Nondedicated
+2001,"Liquefied Petroleum Gas (LPG)",4,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+2001,"Liquefied Petroleum Gas (LPG)",3,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2001,"Liquefied Petroleum Gas (LPG)",92,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2001,"Liquefied Petroleum Gas (LPG)",435,"Heavy Duty","Other Trucks",Dedicated
+2001,"Liquefied Petroleum Gas (LPG)",1795,"Medium Duty","Pickup Trucks",Nondedicated
+2001,"Liquefied Petroleum Gas (LPG)",279,"Medium Duty","Other Trucks",Nondedicated
+2001,"Liquefied Petroleum Gas (LPG)",8,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+2000,"Liquefied Petroleum Gas (LPG)",64,"Heavy Duty","Buses (School Buses)",Nondedicated
+2000,"Liquefied Petroleum Gas (LPG)",70,"Medium Duty","Other Trucks",Dedicated
+2000,"Liquefied Petroleum Gas (LPG)",3,"Heavy Duty","Other Trucks",Nondedicated
+2000,"Liquefied Petroleum Gas (LPG)",3,"Heavy Duty","Buses (School Buses)",Dedicated
+2000,"Liquefied Petroleum Gas (LPG)",225,"Heavy Duty","Other Trucks",Dedicated
+2000,"Liquefied Petroleum Gas (LPG)",137,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2000,"Liquefied Petroleum Gas (LPG)",43,"Light Duty","Automobiles (Midsize)",Nondedicated
+2000,"Liquefied Petroleum Gas (LPG)",13,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2000,"Liquefied Petroleum Gas (LPG)",596,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2000,"Liquefied Petroleum Gas (LPG)",24,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+2000,"Liquefied Petroleum Gas (LPG)",31,"Light Duty","Automobiles (Fullsize)",Dedicated
+2000,"Liquefied Petroleum Gas (LPG)",67,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+2000,"Liquefied Petroleum Gas (LPG)",6,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Dedicated
+2000,"Liquefied Petroleum Gas (LPG)",25,"Light Duty","Automobiles (Compact)",Nondedicated
+2000,"Liquefied Petroleum Gas (LPG)",15,"Light Duty","Automobiles (Fullsize)",Nondedicated
+2000,"Liquefied Petroleum Gas (LPG)",22,"Light Duty","Automobiles (Midsize)",Nondedicated
+2000,"Liquefied Petroleum Gas (LPG)",2,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+2000,"Liquefied Petroleum Gas (LPG)",8,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2000,"Liquefied Petroleum Gas (LPG)",13,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+2000,"Liquefied Petroleum Gas (LPG)",355,"Medium Duty","Other Trucks",Nondedicated
+2000,"Liquefied Petroleum Gas (LPG)",26,"Medium Duty","Other Trucks",Dedicated
+2000,"Liquefied Petroleum Gas (LPG)",43,"Medium Duty","Other Trucks",Nondedicated
+2000,"Liquefied Petroleum Gas (LPG)",17,"Heavy Duty","Buses (School Buses)",Dedicated
+2000,"Liquefied Petroleum Gas (LPG)",97,"Heavy Duty","Buses (Transit Buses)",Dedicated
+2000,"Liquefied Petroleum Gas (LPG)",513,"Heavy Duty","Other Trucks",Dedicated
+2000,"Liquefied Petroleum Gas (LPG)",1611,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+2000,"Liquefied Petroleum Gas (LPG)",401,"Medium Duty","Other Trucks",Nondedicated
+2000,"Liquefied Petroleum Gas (LPG)",4,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",26,"Heavy Duty","Buses (School Buses)",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",4,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",7,"Heavy Duty","Other Trucks",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",2,"Heavy Duty","Buses (Intercity Buses)",Dedicated
+1999,"Liquefied Petroleum Gas (LPG)",33,"Heavy Duty","Buses (School Buses)",Dedicated
+1999,"Liquefied Petroleum Gas (LPG)",1,"Heavy Duty","Buses (Transit Buses)",Dedicated
+1999,"Liquefied Petroleum Gas (LPG)",267,"Heavy Duty","Other Trucks",Dedicated
+1999,"Liquefied Petroleum Gas (LPG)",2,"Heavy Duty","Buses (Intercity Buses)",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",1,"Heavy Duty","Other Trucks",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",1,"Light Duty","Automobiles (Compact)",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",12,"Light Duty","Automobiles (Fullsize)",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",95,"Light Duty","Automobiles (Midsize)",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",91,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",166,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",24,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",19,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",1,"Light Duty","Automobiles (Compact)",Dedicated
+1999,"Liquefied Petroleum Gas (LPG)",30,"Light Duty","Automobiles (Fullsize)",Dedicated
+1999,"Liquefied Petroleum Gas (LPG)",97,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+1999,"Liquefied Petroleum Gas (LPG)",25,"Light Duty","Automobiles (Compact)",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",15,"Light Duty","Automobiles (Fullsize)",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",22,"Light Duty","Automobiles (Midsize)",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",2,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",12,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",14,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",1,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",434,"Medium Duty","Other Trucks",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",93,"Medium Duty","Other Trucks",Dedicated
+1999,"Liquefied Petroleum Gas (LPG)",4,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+1999,"Liquefied Petroleum Gas (LPG)",46,"Medium Duty","Other Trucks",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",128,"Heavy Duty","Buses (Transit Buses)",Dedicated
+1999,"Liquefied Petroleum Gas (LPG)",1401,"Heavy Duty","Other Trucks",Dedicated
+1999,"Liquefied Petroleum Gas (LPG)",1,"Light Duty","Automobiles (Midsize)",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",1,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",1011,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",122,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",1,"Medium Duty","Other Trucks",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",163,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+1999,"Liquefied Petroleum Gas (LPG)",216,"Medium Duty","Other Trucks",Dedicated
+1998,"Liquefied Petroleum Gas (LPG)",3,"Heavy Duty","Buses (School Buses)",Nondedicated
+1998,"Liquefied Petroleum Gas (LPG)",1100,"Medium Duty","Other Trucks",Dedicated
+1998,"Liquefied Petroleum Gas (LPG)",11,"Heavy Duty","Other Trucks",Nondedicated
+1998,"Liquefied Petroleum Gas (LPG)",4,"Heavy Duty","Buses (Intercity Buses)",Dedicated
+1998,"Liquefied Petroleum Gas (LPG)",53,"Heavy Duty","Buses (School Buses)",Dedicated
+1998,"Liquefied Petroleum Gas (LPG)",1185,"Heavy Duty","Other Trucks",Dedicated
+1998,"Liquefied Petroleum Gas (LPG)",10,"Heavy Duty","Buses (School Buses)",Nondedicated
+1998,"Liquefied Petroleum Gas (LPG)",23,"Heavy Duty","Other Trucks",Nondedicated
+1998,"Liquefied Petroleum Gas (LPG)",9,"Light Duty","Automobiles (Compact)",Nondedicated
+1998,"Liquefied Petroleum Gas (LPG)",21,"Light Duty","Automobiles (Fullsize)",Nondedicated
+1998,"Liquefied Petroleum Gas (LPG)",135,"Light Duty","Automobiles (Midsize)",Nondedicated
+1998,"Liquefied Petroleum Gas (LPG)",37,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+1998,"Liquefied Petroleum Gas (LPG)",507,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1998,"Liquefied Petroleum Gas (LPG)",34,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+1998,"Liquefied Petroleum Gas (LPG)",64,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1998,"Liquefied Petroleum Gas (LPG)",50,"Light Duty","Automobiles (Compact)",Dedicated
+1998,"Liquefied Petroleum Gas (LPG)",34,"Light Duty","Automobiles (Fullsize)",Dedicated
+1998,"Liquefied Petroleum Gas (LPG)",3,"Light Duty","Vans (Small Passenger Vans)",Dedicated
+1998,"Liquefied Petroleum Gas (LPG)",49,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+1998,"Liquefied Petroleum Gas (LPG)",11,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Dedicated
+1998,"Liquefied Petroleum Gas (LPG)",22,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Dedicated
+1998,"Liquefied Petroleum Gas (LPG)",27,"Light Duty","Automobiles (Fullsize)",Nondedicated
+1998,"Liquefied Petroleum Gas (LPG)",54,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+1998,"Liquefied Petroleum Gas (LPG)",202,"Medium Duty","Other Trucks",Nondedicated
+1998,"Liquefied Petroleum Gas (LPG)",2,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+1998,"Liquefied Petroleum Gas (LPG)",160,"Medium Duty","Other Trucks",Dedicated
+1998,"Liquefied Petroleum Gas (LPG)",5,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+1998,"Liquefied Petroleum Gas (LPG)",56,"Medium Duty","Other Trucks",Nondedicated
+1998,"Liquefied Petroleum Gas (LPG)",3,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+1998,"Liquefied Petroleum Gas (LPG)",147,"Heavy Duty","Buses (Transit Buses)",Dedicated
+1998,"Liquefied Petroleum Gas (LPG)",699,"Heavy Duty","Other Trucks",Dedicated
+1998,"Liquefied Petroleum Gas (LPG)",2,"Light Duty","Automobiles (Midsize)",Nondedicated
+1998,"Liquefied Petroleum Gas (LPG)",788,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1998,"Liquefied Petroleum Gas (LPG)",26,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1998,"Liquefied Petroleum Gas (LPG)",31,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+1998,"Liquefied Petroleum Gas (LPG)",3,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+1997,"Liquefied Petroleum Gas (LPG)",2,"Heavy Duty","Buses (Intercity Buses)",Nondedicated
+1997,"Liquefied Petroleum Gas (LPG)",8,"Medium Duty","Other Trucks",Nondedicated
+1997,"Liquefied Petroleum Gas (LPG)",4,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+1997,"Liquefied Petroleum Gas (LPG)",17,"Heavy Duty","Other Trucks",Nondedicated
+1997,"Liquefied Petroleum Gas (LPG)",19,"Heavy Duty","Buses (Intercity Buses)",Dedicated
+1997,"Liquefied Petroleum Gas (LPG)",73,"Heavy Duty","Buses (School Buses)",Dedicated
+1997,"Liquefied Petroleum Gas (LPG)",63,"Heavy Duty","Buses (Transit Buses)",Dedicated
+1997,"Liquefied Petroleum Gas (LPG)",1151,"Heavy Duty","Other Trucks",Dedicated
+1997,"Liquefied Petroleum Gas (LPG)",11,"Heavy Duty","Buses (School Buses)",Nondedicated
+1997,"Liquefied Petroleum Gas (LPG)",10,"Heavy Duty","Other Trucks",Nondedicated
+1997,"Liquefied Petroleum Gas (LPG)",9,"Light Duty","Automobiles (Compact)",Nondedicated
+1997,"Liquefied Petroleum Gas (LPG)",13,"Light Duty","Automobiles (Fullsize)",Nondedicated
+1997,"Liquefied Petroleum Gas (LPG)",42,"Light Duty","Automobiles (Midsize)",Nondedicated
+1997,"Liquefied Petroleum Gas (LPG)",33,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+1997,"Liquefied Petroleum Gas (LPG)",366,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1997,"Liquefied Petroleum Gas (LPG)",24,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+1997,"Liquefied Petroleum Gas (LPG)",182,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1997,"Liquefied Petroleum Gas (LPG)",26,"Light Duty","Automobiles (Fullsize)",Dedicated
+1997,"Liquefied Petroleum Gas (LPG)",56,"Light Duty","Automobiles (Midsize)",Dedicated
+1997,"Liquefied Petroleum Gas (LPG)",5,"Light Duty","Vans (Small Passenger Vans)",Dedicated
+1997,"Liquefied Petroleum Gas (LPG)",217,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+1997,"Liquefied Petroleum Gas (LPG)",7,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Dedicated
+1997,"Liquefied Petroleum Gas (LPG)",71,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Dedicated
+1997,"Liquefied Petroleum Gas (LPG)",25,"Light Duty","Automobiles (Compact)",Nondedicated
+1997,"Liquefied Petroleum Gas (LPG)",25,"Light Duty","Automobiles (Fullsize)",Nondedicated
+1997,"Liquefied Petroleum Gas (LPG)",13,"Light Duty","Automobiles (Midsize)",Nondedicated
+1997,"Liquefied Petroleum Gas (LPG)",2,"Light Duty","Other Vehicles",Nondedicated
+1997,"Liquefied Petroleum Gas (LPG)",5,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1997,"Liquefied Petroleum Gas (LPG)",21,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+1997,"Liquefied Petroleum Gas (LPG)",216,"Medium Duty","Other Trucks",Nondedicated
+1997,"Liquefied Petroleum Gas (LPG)",6,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+1997,"Liquefied Petroleum Gas (LPG)",423,"Medium Duty","Other Trucks",Dedicated
+1997,"Liquefied Petroleum Gas (LPG)",3,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+1997,"Liquefied Petroleum Gas (LPG)",8,"Medium Duty","Other Trucks",Nondedicated
+1997,"Liquefied Petroleum Gas (LPG)",1649,"Heavy Duty","Other Trucks",Dedicated
+1997,"Liquefied Petroleum Gas (LPG)",7,"Light Duty","Automobiles (Midsize)",Nondedicated
+1997,"Liquefied Petroleum Gas (LPG)",12,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+1997,"Liquefied Petroleum Gas (LPG)",6,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1997,"Liquefied Petroleum Gas (LPG)",15,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1997,"Liquefied Petroleum Gas (LPG)",36,"Heavy Duty","Buses (School Buses)",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",3,"Heavy Duty","Buses (Intercity Buses)",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",1,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+1996,"Liquefied Petroleum Gas (LPG)",5,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",31,"Heavy Duty","Other Trucks",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",1,"Heavy Duty","Buses (Intercity Buses)",Dedicated
+1996,"Liquefied Petroleum Gas (LPG)",417,"Heavy Duty","Buses (School Buses)",Dedicated
+1996,"Liquefied Petroleum Gas (LPG)",62,"Heavy Duty","Buses (Transit Buses)",Dedicated
+1996,"Liquefied Petroleum Gas (LPG)",1328,"Heavy Duty","Other Trucks",Dedicated
+1996,"Liquefied Petroleum Gas (LPG)",15,"Heavy Duty","Buses (School Buses)",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",40,"Heavy Duty","Other Trucks",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",29,"Light Duty","Automobiles (Compact)",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",125,"Light Duty","Automobiles (Fullsize)",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",221,"Light Duty","Automobiles (Midsize)",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",61,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",1027,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",295,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",159,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",7,"Light Duty","Automobiles (Compact)",Dedicated
+1996,"Liquefied Petroleum Gas (LPG)",154,"Light Duty","Automobiles (Fullsize)",Dedicated
+1996,"Liquefied Petroleum Gas (LPG)",226,"Light Duty","Automobiles (Midsize)",Dedicated
+1996,"Liquefied Petroleum Gas (LPG)",31,"Light Duty","Vans (Small Passenger Vans)",Dedicated
+1996,"Liquefied Petroleum Gas (LPG)",1,"Light Duty","Other Vehicles",Dedicated
+1996,"Liquefied Petroleum Gas (LPG)",294,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+1996,"Liquefied Petroleum Gas (LPG)",6,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Dedicated
+1996,"Liquefied Petroleum Gas (LPG)",65,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Dedicated
+1996,"Liquefied Petroleum Gas (LPG)",16,"Light Duty","Automobiles (Compact)",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",49,"Light Duty","Automobiles (Fullsize)",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",32,"Light Duty","Automobiles (Midsize)",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",6,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",3,"Light Duty","Other Vehicles",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",32,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",3,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",17,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",6,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",500,"Medium Duty","Other Trucks",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",44,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",580,"Medium Duty","Other Trucks",Dedicated
+1996,"Liquefied Petroleum Gas (LPG)",25,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+1996,"Liquefied Petroleum Gas (LPG)",46,"Medium Duty","Other Trucks",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",4,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",1474,"Heavy Duty","Other Trucks",Dedicated
+1996,"Liquefied Petroleum Gas (LPG)",1,"Light Duty","Automobiles (Midsize)",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",6,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",3,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",2,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",10,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",1,"Light Duty","Vans (Small Passenger Vans)",Dedicated
+1996,"Liquefied Petroleum Gas (LPG)",18,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+1996,"Liquefied Petroleum Gas (LPG)",2,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Dedicated
+1996,"Liquefied Petroleum Gas (LPG)",1,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",2,"Medium Duty","Other Trucks",Nondedicated
+1996,"Liquefied Petroleum Gas (LPG)",82,"Medium Duty","Other Trucks",Dedicated
+1996,"Liquefied Petroleum Gas (LPG)",61,"Heavy Duty","Buses (School Buses)",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",291,"Medium Duty","Other Trucks",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",14,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",461,"Medium Duty","Other Trucks",Dedicated
+1995,"Liquefied Petroleum Gas (LPG)",84,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+1995,"Liquefied Petroleum Gas (LPG)",73,"Medium Duty","Other Trucks",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",11,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",1,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",13,"Heavy Duty","Other Trucks",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",1484,"Heavy Duty","Other Trucks",Dedicated
+1995,"Liquefied Petroleum Gas (LPG)",2,"Light Duty","Automobiles (Compact)",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",1,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",1,"Light Duty","Other Vehicles",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",6,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",1,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+1995,"Liquefied Petroleum Gas (LPG)",1,"Medium Duty","Other Trucks",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",3,"Medium Duty","Other Trucks",Dedicated
+1995,"Liquefied Petroleum Gas (LPG)",8,"Heavy Duty","Buses (Intercity Buses)",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",83,"Heavy Duty","Buses (School Buses)",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",10,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",42,"Heavy Duty","Other Trucks",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",47,"Heavy Duty","Buses (School Buses)",Dedicated
+1995,"Liquefied Petroleum Gas (LPG)",9,"Heavy Duty","Buses (Transit Buses)",Dedicated
+1995,"Liquefied Petroleum Gas (LPG)",1172,"Heavy Duty","Other Trucks",Dedicated
+1995,"Liquefied Petroleum Gas (LPG)",4,"Heavy Duty","Buses (School Buses)",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",4,"Heavy Duty","Buses (Transit Buses)",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",43,"Heavy Duty","Other Trucks",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",129,"Light Duty","Automobiles (Compact)",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",42,"Light Duty","Automobiles (Fullsize)",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",175,"Light Duty","Automobiles (Midsize)",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",74,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",1576,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",107,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",123,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",16,"Light Duty","Automobiles (Compact)",Dedicated
+1995,"Liquefied Petroleum Gas (LPG)",169,"Light Duty","Automobiles (Fullsize)",Dedicated
+1995,"Liquefied Petroleum Gas (LPG)",14,"Light Duty","Automobiles (Midsize)",Dedicated
+1995,"Liquefied Petroleum Gas (LPG)",6,"Light Duty","Vans (Small Passenger Vans)",Dedicated
+1995,"Liquefied Petroleum Gas (LPG)",368,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+1995,"Liquefied Petroleum Gas (LPG)",7,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Dedicated
+1995,"Liquefied Petroleum Gas (LPG)",65,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Dedicated
+1995,"Liquefied Petroleum Gas (LPG)",12,"Light Duty","Automobiles (Compact)",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",44,"Light Duty","Automobiles (Fullsize)",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",43,"Light Duty","Automobiles (Midsize)",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",12,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",13,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",25,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+1995,"Liquefied Petroleum Gas (LPG)",23,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",59,"Heavy Duty","Buses (School Buses)",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",3,"Medium Duty","Other Trucks",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",15,"Heavy Duty","Other Trucks",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",110,"Heavy Duty","Buses (School Buses)",Dedicated
+1994,"Liquefied Petroleum Gas (LPG)",19,"Heavy Duty","Buses (Transit Buses)",Dedicated
+1994,"Liquefied Petroleum Gas (LPG)",918,"Heavy Duty","Other Trucks",Dedicated
+1994,"Liquefied Petroleum Gas (LPG)",1,"Heavy Duty","Buses (School Buses)",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",27,"Heavy Duty","Other Trucks",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",58,"Light Duty","Automobiles (Compact)",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",33,"Light Duty","Automobiles (Fullsize)",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",130,"Light Duty","Automobiles (Midsize)",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",86,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",1251,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",4,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",144,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",194,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",2,"Light Duty","Automobiles (Compact)",Dedicated
+1994,"Liquefied Petroleum Gas (LPG)",102,"Light Duty","Automobiles (Fullsize)",Dedicated
+1994,"Liquefied Petroleum Gas (LPG)",80,"Light Duty","Automobiles (Midsize)",Dedicated
+1994,"Liquefied Petroleum Gas (LPG)",8,"Light Duty","Vans (Small Passenger Vans)",Dedicated
+1994,"Liquefied Petroleum Gas (LPG)",259,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Dedicated
+1994,"Liquefied Petroleum Gas (LPG)",2,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Dedicated
+1994,"Liquefied Petroleum Gas (LPG)",20,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Dedicated
+1994,"Liquefied Petroleum Gas (LPG)",49,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Dedicated
+1994,"Liquefied Petroleum Gas (LPG)",16,"Light Duty","Automobiles (Compact)",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",64,"Light Duty","Automobiles (Fullsize)",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",32,"Light Duty","Automobiles (Midsize)",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",2,"Light Duty","Vans (Small Passenger Vans)",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",79,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",16,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",26,"Light Duty","Vans (Passenger/Cargo Vans < 8500 lbs)",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",353,"Medium Duty","Other Trucks",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",40,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",2,"Medium Duty","Pickup Trucks",Dedicated
+1994,"Liquefied Petroleum Gas (LPG)",982,"Medium Duty","Other Trucks",Dedicated
+1994,"Liquefied Petroleum Gas (LPG)",131,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Dedicated
+1994,"Liquefied Petroleum Gas (LPG)",31,"Medium Duty","Other Trucks",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",17,"Medium Duty","Vans (Passenger/Cargo Vans 8501-10000 lbs)",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",1,"Heavy Duty","Other Trucks",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",117,"Heavy Duty","Buses (Transit Buses)",Dedicated
+1994,"Liquefied Petroleum Gas (LPG)",1517,"Heavy Duty","Other Trucks",Dedicated
+1994,"Liquefied Petroleum Gas (LPG)",1,"Light Duty","Other Trucks (Trucks < 8500 lbs)",Dedicated
+1994,"Liquefied Petroleum Gas (LPG)",6,"Light Duty","Pickup Trucks (Pickups < 8500 lbs)",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",2,"Light Duty","Other Trucks (SUVs < 8500 lbs)",Nondedicated
+1994,"Liquefied Petroleum Gas (LPG)",1,"Medium Duty","Other Trucks",Dedicated
+1994,"Liquefied Petroleum Gas (LPG)",3,"Heavy Duty","Buses (Transit Buses)",Nondedicated

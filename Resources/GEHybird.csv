@@ -1,0 +1,83 @@
+Year,Fuel Type,Number of Vehicles,Weight Class,Vehicle Type,Engine Configuration
+2017,Gasoline-Electric Hybrid (GAS),116672,Light Duty,"Other Trucks (SUVs < 8,500 lbs)",Hybrid
+2017,Gasoline-Electric Hybrid (GAS),58075,Light Duty,Automobiles (Compact),Hybrid
+2017,Gasoline-Electric Hybrid (GAS),6006,Light Duty,Automobiles (Fullsize),Hybrid
+2017,Gasoline-Electric Hybrid (GAS),152090,Light Duty,Automobiles (Midsize),Hybrid
+2017,Gasoline-Electric Hybrid (GAS),705,Light Duty,Automobiles (Subcompact),Hybrid
+2017,Gasoline-Electric Hybrid (GAS),6627,Light Duty,"Pickup Trucks (Pickups < 8,500 lbs)",Hybrid
+2016,Gasoline-Electric Hybrid (GAS),81,Medium Duty,Other Trucks,Hybrid
+2016,Gasoline-Electric Hybrid (GAS),166149,Light Duty,Automobiles (Compact),Hybrid
+2016,Gasoline-Electric Hybrid (GAS),6432,Light Duty,Automobiles (Fullsize),Hybrid
+2016,Gasoline-Electric Hybrid (GAS),157246,Light Duty,Automobiles (Midsize),Hybrid
+2016,Gasoline-Electric Hybrid (GAS),892,Light Duty,Automobiles (Subcompact),Hybrid
+2016,Gasoline-Electric Hybrid (GAS),753,Light Duty,"Pickup Trucks (Pickups < 8,500 lbs)",Hybrid
+2016,Gasoline-Electric Hybrid (GAS),67814,Light Duty,"Other Trucks (SUVs < 8,500 lbs)",Hybrid
+2015,Gasoline-Electric Hybrid (GAS),11590,Light Duty,Automobiles (Fullsize),Hybrid
+2015,Gasoline-Electric Hybrid (GAS),2,Medium Duty,Other Trucks,Hybrid
+2015,Gasoline-Electric Hybrid (GAS),22204,Light Duty,"Other Trucks (SUVs < 8,500 lbs)",Hybrid
+2015,Gasoline-Electric Hybrid (GAS),30,Light Duty,"Pickup Trucks (Pickups < 8,500 lbs)",Hybrid
+2015,Gasoline-Electric Hybrid (GAS),3483,Light Duty,Automobiles (Subcompact),Hybrid
+2015,Gasoline-Electric Hybrid (GAS),152124,Light Duty,Automobiles (Midsize),Hybrid
+2015,Gasoline-Electric Hybrid (GAS),109082,Light Duty,Automobiles (Compact),Hybrid
+2014,Gasoline-Electric Hybrid (GAS),17313,Light Duty,Automobiles (Fullsize),Hybrid
+2014,Gasoline-Electric Hybrid (GAS),151949,Light Duty,Automobiles (Compact),Hybrid
+2014,Gasoline-Electric Hybrid (GAS),17351,Light Duty,Other Trucks (SUVs < 8500 lbs),Hybrid
+2014,Gasoline-Electric Hybrid (GAS),2892,Light Duty,Automobiles (Subcompact),Hybrid
+2014,Gasoline-Electric Hybrid (GAS),210092,Light Duty,Automobiles (Midsize),Hybrid
+2013,Gasoline-Electric Hybrid (GAS),17254,Light Duty,Automobiles (Fullsize),Hybrid
+2013,Gasoline-Electric Hybrid (GAS),199321,Light Duty,Automobiles (Midsize),Hybrid
+2013,Gasoline-Electric Hybrid (GAS),45875,Light Duty,Automobiles (Subcompact),Hybrid
+2013,Gasoline-Electric Hybrid (GAS),19718,Light Duty,Other Trucks (SUVs < 8500 lbs),Hybrid
+2013,Gasoline-Electric Hybrid (GAS),176826,Light Duty,Automobiles (Compact),Hybrid
+2012,Gasoline-Electric Hybrid (GAS),40273,Light Duty,Automobiles (Subcompact),Hybrid
+2012,Gasoline-Electric Hybrid (GAS),63,Heavy Duty,Buses (Transit Buses),Hybrid
+2012,Gasoline-Electric Hybrid (GAS),1038,Light Duty,Pickup Trucks (Pickups < 8500 lbs),Hybrid
+2012,Gasoline-Electric Hybrid (GAS),175982,Light Duty,Automobiles (Compact),Hybrid
+2012,Gasoline-Electric Hybrid (GAS),845,Light Duty,Automobiles (Fullsize),Hybrid
+2012,Gasoline-Electric Hybrid (GAS),194134,Light Duty,Automobiles (Midsize),Hybrid
+2012,Gasoline-Electric Hybrid (GAS),21644,Light Duty,Other Trucks (SUVs < 8500 lbs),Hybrid
+2011,Gasoline-Electric Hybrid (GAS),63,Heavy Duty,Buses (Transit Buses),Hybrid
+2011,Gasoline-Electric Hybrid (GAS),165466,Light Duty,Automobiles (Compact),Hybrid
+2011,Gasoline-Electric Hybrid (GAS),263,Light Duty,Automobiles (Fullsize),Hybrid
+2011,Gasoline-Electric Hybrid (GAS),47004,Light Duty,Automobiles (Midsize),Hybrid
+2011,Gasoline-Electric Hybrid (GAS),6912,Light Duty,Automobiles (Subcompact),Hybrid
+2011,Gasoline-Electric Hybrid (GAS),709,Light Duty,Pickup Trucks (Pickups < 8500 lbs),Hybrid
+2011,Gasoline-Electric Hybrid (GAS),26702,Light Duty,Other Trucks (SUVs < 8500 lbs),Hybrid
+2010,Gasoline-Electric Hybrid (GAS),96,Heavy Duty,Buses (Transit Buses),Hybrid
+2010,Gasoline-Electric Hybrid (GAS),178033,Light Duty,Automobiles (Compact),Hybrid
+2010,Gasoline-Electric Hybrid (GAS),613,Light Duty,Automobiles (Fullsize),Hybrid
+2010,Gasoline-Electric Hybrid (GAS),42598,Light Duty,Automobiles (Midsize),Hybrid
+2010,Gasoline-Electric Hybrid (GAS),9878,Light Duty,Automobiles (Subcompact),Hybrid
+2010,Gasoline-Electric Hybrid (GAS),2164,Light Duty,Pickup Trucks (Pickups < 8500 lbs),Hybrid
+2010,Gasoline-Electric Hybrid (GAS),36548,Light Duty,Other Trucks (SUVs < 8500 lbs),Hybrid
+2009,Gasoline-Electric Hybrid (GAS),7,Heavy Duty,Buses (Transit Buses),Hybrid
+2009,Gasoline-Electric Hybrid (GAS),165,Heavy Duty,Buses (Transit Buses),Hybrid
+2009,Gasoline-Electric Hybrid (GAS),179289,Light Duty,Automobiles (Compact),Hybrid
+2009,Gasoline-Electric Hybrid (GAS),763,Light Duty,Automobiles (Fullsize),Hybrid
+2009,Gasoline-Electric Hybrid (GAS),41634,Light Duty,Automobiles (Midsize),Hybrid
+2009,Gasoline-Electric Hybrid (GAS),2145,Light Duty,Pickup Trucks (Pickups < 8500 lbs),Hybrid
+2009,Gasoline-Electric Hybrid (GAS),37309,Light Duty,Other Trucks (SUVs < 8500 lbs),Hybrid
+2008,Gasoline-Electric Hybrid (GAS),22,Heavy Duty,Buses (Transit Buses),Hybrid
+2008,Gasoline-Electric Hybrid (GAS),2,Light Duty,Other Trucks (Trucks < 8500 lbs),Hybrid
+2008,Gasoline-Electric Hybrid (GAS),73196,Light Duty,Other Trucks (SUVs < 8500 lbs),Hybrid
+2008,Gasoline-Electric Hybrid (GAS),59964,Light Duty,Automobiles (Midsize),Hybrid
+2008,Gasoline-Electric Hybrid (GAS),975,Light Duty,Automobiles (Fullsize),Hybrid
+2008,Gasoline-Electric Hybrid (GAS),190642,Light Duty,Automobiles (Compact),Hybrid
+2007,Gasoline-Electric Hybrid (GAS),49977,Light Duty,Other Trucks (SUVs < 8500 lbs),Hybrid
+2007,Gasoline-Electric Hybrid (GAS),69058,Light Duty,Automobiles (Midsize),Hybrid
+2007,Gasoline-Electric Hybrid (GAS),213796,Light Duty,Automobiles (Compact),Hybrid
+2006,Gasoline-Electric Hybrid (GAS),5598,Light Duty,Automobiles (Midsize),Hybrid
+2006,Gasoline-Electric Hybrid (GAS),722,Light Duty,Automobiles (Subcompact),Hybrid
+2006,Gasoline-Electric Hybrid (GAS),18800,Light Duty,Other Trucks (SUVs < 8500 lbs),Hybrid
+2006,Gasoline-Electric Hybrid (GAS),191251,Light Duty,Automobiles (Compact),Hybrid
+2005,Gasoline-Electric Hybrid (GAS),1,Light Duty,Automobiles (Compact),Hybrid
+2005,Gasoline-Electric Hybrid (GAS),77,Heavy Duty,Buses (Transit Buses),Hybrid
+2005,Gasoline-Electric Hybrid (GAS),104410,Light Duty,Automobiles (Compact),Hybrid
+2005,Gasoline-Electric Hybrid (GAS),583,Light Duty,Automobiles (Subcompact),Hybrid
+2005,Gasoline-Electric Hybrid (GAS),17698,Light Duty,Other Trucks (SUVs < 8500 lbs),Hybrid
+2005,Gasoline-Electric Hybrid (GAS),16826,Light Duty,Automobiles (Midsize),Hybrid
+2004,Gasoline-Electric Hybrid (GAS),36,Light Duty,Automobiles (Subcompact),Hybrid
+2004,Gasoline-Electric Hybrid (GAS),82036,Light Duty,Automobiles (Compact),Hybrid
+2004,Gasoline-Electric Hybrid (GAS),1061,Light Duty,Automobiles (Midsize),Hybrid
+2004,Gasoline-Electric Hybrid (GAS),583,Light Duty,Automobiles (Subcompact),Hybrid
+2004,Gasoline-Electric Hybrid (GAS),4556,Light Duty,Other Trucks (SUVs < 8500 lbs),Hybrid
