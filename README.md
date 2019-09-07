@@ -1,13 +1,13 @@
 # Alternative Fuel Vehicles ETL Project
 
 ## Table of Contents
--[Introduction](#Introduction)
+* [Introduction](#Introduction)
 
--[Pre Installation](#Pre Installation)
+* [Pre Installation](#Pre Installation)
 
--[Running this project](#Running this project)
+* [Running this project](#Running this project)
 
--[Write Up](#Write Up)
+* [Write Up](#Write Up)
 
 
 
