@@ -5,9 +5,9 @@
 
 * [Installation](#Installation)
 
-* [Running this project](#Running this project)
+* [Running this project](#Running-this-project)
 
-* [Write Up](#Write Up)
+* [Write Up](#Write-Up)
 
 
 
