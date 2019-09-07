@@ -21,11 +21,19 @@ For this project, we chose the supplier side and focused our data preparation an
 ## Installation
 To run this project you will need to have the following installed:
 Python 3,
-Pandas, 
-Numpy, 
-sqlalchemy, 
-time, 
-psycopg2 and 
+
+Pandas,
+
+Numpy,
+
+pip install sqlalchemy,
+
+time,
+
+psycopg2
+
+and 
+
 PostgreSQL11.
 
 ## Running this project
