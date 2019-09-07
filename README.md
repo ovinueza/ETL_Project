@@ -3,7 +3,7 @@
 ## Table of Contents
 * [Introduction](#Introduction)
 
-* [Pre Installation](#Pre Installation)
+* [Installation](#Installation)
 
 * [Running this project](#Running this project)
 
@@ -18,7 +18,7 @@ The EIA website containes two types of data relating to alternative fuels, one f
 
 For this project, we chose the supplier side and focused our data preparation and possible uses on how many AFVs have been made available in the auto market. 
 
-## Pre Installation
+## Installation
 To run this project you will need to have the following installed:
 Python 3,
 Pandas, 
