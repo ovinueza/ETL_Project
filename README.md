@@ -7,5 +7,25 @@ The EIA website containes two types of data relating to alternative fuels, one f
 
 For this project, we chose the supplier side and focused our data preparation and possible uses on how many AFVs have been made available in the auto market. 
 
+## Pre Installation
+To run this project you will need to have the following installed:
+
+Pandas, Numpy, sqlalchemy, time, psycopg2 and PostgreSQL11.
+
+## Running this project
+You will need 8 csv files located in the Resources folder or if you would like to download them yourself please click here.
+In addition you will need the TableCreation.sql, ReadCleanWrite.ipynb and Queries.sql
+
+### Start
+1.Start by creating a database in pgAdmin named dbFuelTypes then use the Query Tool to run the TableCreation.sql file. This will create the necessary tables where the data will load.
+
+2. Run the ReadCleanWrite.ipynb file. This will load all the transformed and normalized data from the csv files into pgAdmin.
+
+3. Run the Queries.sql file to see the type of information we obtained out of this project.
+
+
+
+
+
 
 
