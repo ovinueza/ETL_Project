@@ -30,7 +30,7 @@ You will need 8 csv files located in the Resources folder or if you would like t
 In addition you will need the TableCreation.sql, ReadCleanWrite.ipynb and Queries.sql
 
 ### Start
-1.Start by creating a database in pgAdmin named dbFuelTypes then use the Query Tool to run the TableCreation.sql file. This will create the necessary tables where the data will load.
+1. Start by creating a database in pgAdmin named dbFuelTypes then use the Query Tool to run the TableCreation.sql file. This will create the necessary tables where the data will load.
 
 2. Run the ReadCleanWrite.ipynb file. This will load all the transformed and normalized data from the csv files into pgAdmin.
 
