@@ -66,7 +66,7 @@ In addition you will need the TableCreation.sql, ReadCleanWrite.ipynb and Querie
     ![Alt text](https://github.com/ovinueza/ETL_Project/blob/master/Images/Queries.JPG)
 
 ## Write Up
-A write up for this project can be downloaded [here](https://github.com/ovinueza/ETL_Project/blob/master/ETL%20Writeup.docx).
+A write up for this project can be downloaded [here](https://github.com/ovinueza/ETL_Project/tree/master/Write%20Up).
 
 ## Authors
 Shahzad Naseer
