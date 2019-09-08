@@ -27,8 +27,10 @@ Pandas,
 Numpy,
 
 
-|###pip install sqlalchemy|
+|~pip install sqlalchemy|
 |--------|
+
+{pip install sqlalchemy}
 
 time,
 
