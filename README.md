@@ -1,3 +1,5 @@
+![Alt text](https://github.com/ovinueza/ETL_Project/blob/master/Images/Alt%20Fuels%20Logo.jpg)
+
 # Alternative Fuel Vehicles ETL Project
 
 ### Table of Contents
