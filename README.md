@@ -3,6 +3,8 @@
 ### Table of Contents
 * [Introduction](#Introduction)
 
+* [Expected Results](#Expected-Results)
+
 * [Installation](#Installation)
 
 * [Running this project](#Running-this-project)
