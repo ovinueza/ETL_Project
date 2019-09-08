@@ -56,11 +56,13 @@ In addition you will need the TableCreation.sql, ReadCleanWrite.ipynb and Querie
     ![Alt text](https://github.com/ovinueza/ETL_Project/blob/master/Images/QuickDBD-EIA%20Alternative%20Fuels.png)
 
 2. Run the ReadCleanWrite.ipynb file. This will load all the transformed and normalized data from the csv files into pgAdmin. **IMPORTANT**: Make sure to replace ***"MyPassword"*** to your pgAdmin password on cells 11 and 20.
+
     ![Alt text](https://github.com/ovinueza/ETL_Project/blob/master/Images/Cell11.JPG)
     ![Alt text](https://github.com/ovinueza/ETL_Project/blob/master/Images/Cell20.JPG)
 
 
 3. Run the Queries.sql file to see the type of information we obtained out of this project.
+    ![Alt text](https://github.com/ovinueza/ETL_Project/blob/master/Images/Queries.JPG)
 
 ## Write Up
 A write up for this project can be downloaded [here](https://github.com/ovinueza/ETL_Project/blob/master/ETL%20Writeup.docx).
