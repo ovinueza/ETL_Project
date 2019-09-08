@@ -7,7 +7,7 @@
 
 * [Installation](#Installation)
 
-* [Running this project](#Running-this-project)
+* [Running this Project](#Running-this-project)
 
 * [Write Up](#Write-Up)
 
@@ -45,7 +45,7 @@ and
 
 [PostgreSQL11](https://www.postgresql.org/download/)
 
-## Running this project
+## Running this Project
 You will need 8 csv files located in the [Resources](https://github.com/ovinueza/ETL_Project/tree/master/Resources) folder or if you would like to download them yourself please click [here](https://www.eia.gov/renewable/afv/supply.php?fs=a&sfueltype=CNG).
 In addition you will need the TableCreation.sql, ReadCleanWrite.ipynb and Queries.sql located in this repo.
 
