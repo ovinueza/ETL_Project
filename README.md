@@ -34,7 +34,7 @@ Numpy,
 
 and 
 
-PostgreSQL11.
+[PostgreSQL11](https://www.postgresql.org/download/)
 
 ## Running this project
 You will need 8 csv files located in the Resources folder or if you would like to download them yourself please click here.
