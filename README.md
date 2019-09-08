@@ -44,12 +44,20 @@ In addition you will need the TableCreation.sql, ReadCleanWrite.ipynb and Querie
 ### Start
 1. Start by creating a database in pgAdmin named dbFuelTypes then use the Query Tool to run the TableCreation.sql file. This will create the necessary tables where the data will load.
 
-2. Run the ReadCleanWrite.ipynb file. This will load all the transformed and normalized data from the csv files into pgAdmin. IMPORTANT: Make sure to replace "MyPassword" to your pgAdmin password on cells 11 and 20.
+2. Run the ReadCleanWrite.ipynb file. This will load all the transformed and normalized data from the csv files into pgAdmin. **IMPORTANT**: Make sure to replace ***"MyPassword"*** to your pgAdmin password on cells 11 and 20.
 
 3. Run the Queries.sql file to see the type of information we obtained out of this project.
 
 ## Write Up
-A write up for this project can be found here.
+A write up for this project can be downloaded [here](https://github.com/ovinueza/ETL_Project/blob/master/ETL%20Writeup.docx).
+
+## Authors
+
+Shahzad Naseer
+
+and 
+
+Oswald Vinueza
 
 
 
