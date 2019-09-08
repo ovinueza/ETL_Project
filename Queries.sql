@@ -14,7 +14,7 @@ Inner Join fuel_types As f On
 vd.fuel_code = f.fuel_code
 Group by f.fuel_name;
 
-----Sum of all the vehicles supplied after 2010 per fuel type-----
+----Sum of all the vehicles supplied after 2010 per fuel type----- or a given year by changing > to = ---------
 Select f.fuel_name, SUM (vd.vehicles_count)vehicle_sum
 From vehicles_data as vd
 Inner Join fuel_types As f On
