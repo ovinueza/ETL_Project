@@ -26,11 +26,11 @@ Pandas,
 
 Numpy,
 
-`pip install sqlalchemy`
+`$ pip install sqlalchemy`
 
-time,
+`$ pip install time`
 
-psycopg2
+`$pip install psycopg2`
 
 and 
 
