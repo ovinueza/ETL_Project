@@ -1,6 +1,6 @@
 # Alternative Fuel Vehicles ETL Project
 
-## Table of Contents
+### Table of Contents
 * [Introduction](#Introduction)
 
 * [Installation](#Installation)
@@ -20,25 +20,26 @@ For this project, we chose the supplier side and focused our data preparation an
 
 ## Installation
 To run this project you will need to have the following installed:
-Python 3,
 
-Pandas,
+Python 3 or later
 
-Numpy,
+Pandas
+
+Numpy
 
 `$ pip install sqlalchemy`
 
 `$ pip install time`
 
-`$pip install psycopg2`
+`$ pip install psycopg2`
 
 and 
 
 [PostgreSQL11](https://www.postgresql.org/download/)
 
 ## Running this project
-You will need 8 csv files located in the Resources folder or if you would like to download them yourself please click here.
-In addition you will need the TableCreation.sql, ReadCleanWrite.ipynb and Queries.sql
+You will need 8 csv files located in the Resources folder or if you would like to download them yourself please click [here](https://www.eia.gov/renewable/afv/supply.php?fs=a&sfueltype=CNG).
+In addition you will need the TableCreation.sql, ReadCleanWrite.ipynb and Queries.sql located in this repo.
 
 ### Start
 1. Start by creating a database in pgAdmin named dbFuelTypes then use the Query Tool to run the TableCreation.sql file. This will create the necessary tables where the data will load.
