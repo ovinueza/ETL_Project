@@ -9,7 +9,7 @@
 
 * [Write Up](#Write-Up)
 
-* [Authors](Authors)
+* [Authors](#Authors)
 
 
 
@@ -54,7 +54,6 @@ In addition you will need the TableCreation.sql, ReadCleanWrite.ipynb and Querie
 A write up for this project can be downloaded [here](https://github.com/ovinueza/ETL_Project/blob/master/ETL%20Writeup.docx).
 
 ## Authors
-
 Shahzad Naseer
 
 and 
