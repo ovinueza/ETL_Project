@@ -9,6 +9,8 @@
 
 * [Write Up](#Write-Up)
 
+* [Authors](Authors)
+
 
 
 ## Introduction
