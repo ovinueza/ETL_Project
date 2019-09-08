@@ -62,6 +62,7 @@ In addition you will need the TableCreation.sql, ReadCleanWrite.ipynb and Querie
 
 
 3. Run the Queries.sql file to see the type of information we obtained out of this project.
+
     ![Alt text](https://github.com/ovinueza/ETL_Project/blob/master/Images/Queries.JPG)
 
 ## Write Up
