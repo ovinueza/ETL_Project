@@ -14,11 +14,15 @@
 
 
 ## Introduction
-The need for alternative fuels to power vehicles and other modes of transportation has grown over the years. Sometimes these needs are related to cost sometimes cause of a concious effort to protect the enviroment. 
+The need for alternative fuels to power vehicles and other modes of transportation has grown over the years. Sometimes these needs are related to the need to reduce fuel cost or due to a conscious effort to protect the enviroment. 
 
 The EIA website containes two types of data relating to alternative fuels, one from a supplier side and one from a user side. Suppliers include original equipment manufacturers and aftermarket vehicle converters. The supplier side data shows how many vehicles can operate on an alternate fuel whereas the user side data shows how many AFVs (Alternative Fueled Vehicles) are in use based on surveys done by the federal and state governments, alternative fuel providers, and transit companies. 
 
 For this project, we chose the supplier side and focused our data preparation and possible uses on how many AFVs have been made available in the auto market. 
+
+## Expected Results
+
+Through this ETL project, we will have a better understanding of which categories, broken down by vehicle type, fuel type and weight class, the auto manufacturers have focused on adding alternative fuel compatibility to.
 
 ## Installation
 To run this project you will need to have the following installed:
